@@ -1,0 +1,4851 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rigel\n"
+"POT-Creation-Date: 2017-09-26 18:38+0530\n"
+"PO-Revision-Date: 2017-09-26 18:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../amz-rigel.php:74
+msgid "Theme Default"
+msgstr ""
+
+#: ../class/class-metaboxes.php:582 ../includes/metaboxes/page-metabox.php:5
+#: ../includes/metaboxes/page-metabox.php:21
+#: ../includes/metaboxes/page-metabox.php:75
+#: ../includes/metaboxes/page-metabox.php:96
+#: ../includes/metaboxes/page-metabox.php:188
+#: ../includes/metaboxes/page-metabox.php:201
+#: ../includes/metaboxes/page-metabox.php:214
+#: ../includes/metaboxes/page-metabox.php:228
+#: ../includes/metaboxes/page-metabox.php:272
+#: ../includes/metaboxes/page-metabox.php:285
+#: ../includes/metaboxes/portfolio-metabox.php:5
+#: ../includes/metaboxes/portfolio-metabox.php:21
+#: ../includes/metaboxes/portfolio-metabox.php:177
+#: ../includes/metaboxes/portfolio-metabox.php:198
+#: ../includes/metaboxes/portfolio-metabox.php:253
+#: ../includes/metaboxes/portfolio-metabox.php:266
+#: ../includes/metaboxes/portfolio-metabox.php:279
+#: ../includes/metaboxes/portfolio-metabox.php:293
+#: ../includes/metaboxes/post-metabox.php:5
+#: ../includes/metaboxes/post-metabox.php:21
+#: ../includes/metaboxes/post-metabox.php:281
+#: ../includes/metaboxes/post-metabox.php:302
+#: ../includes/metaboxes/post-metabox.php:357
+#: ../includes/metaboxes/post-metabox.php:370
+#: ../includes/metaboxes/post-metabox.php:383
+#: ../includes/metaboxes/post-metabox.php:397
+#: ../includes/metaboxes/staff-metabox.php:5
+#: ../includes/metaboxes/staff-metabox.php:21
+#: ../includes/metaboxes/staff-metabox.php:137
+#: ../includes/metaboxes/staff-metabox.php:158
+#: ../includes/metaboxes/staff-metabox.php:213
+#: ../includes/metaboxes/staff-metabox.php:226
+#: ../includes/metaboxes/staff-metabox.php:239
+#: ../includes/metaboxes/staff-metabox.php:253
+#: ../includes/visual-composer/elements/vc_elements.php:117
+#: ../includes/visual-composer/elements/vc_elements.php:215
+#: ../includes/visual-composer/elements/vc_elements.php:504
+#: ../includes/visual-composer/elements/vc_elements.php:796
+#: ../includes/visual-composer/elements/vc_elements.php:1119
+#: ../includes/visual-composer/elements/vc_elements.php:1427
+#: ../includes/visual-composer/elements/vc_elements.php:1702
+#: ../includes/visual-composer/elements/vc_elements.php:1915
+#: ../includes/visual-composer/elements/vc_elements.php:2148
+#: ../includes/visual-composer/elements/vc_elements.php:2636
+#: ../includes/visual-composer/elements/vc_elements.php:2723
+#: ../includes/visual-composer/elements/vc_elements.php:2867
+#: ../includes/visual-composer/elements/vc_elements.php:3367
+#: ../includes/visual-composer/elements/vc_elements.php:3778
+msgid "Default"
+msgstr ""
+
+#: ../demo-importer/init.php:74
+msgid "Import Demos"
+msgstr ""
+
+#: ../demo-importer/init.php:80
+msgid "Import All Pages"
+msgstr ""
+
+#: ../demo-importer/init.php:90
+msgid "Rigel Agency"
+msgstr ""
+
+#: ../demo-importer/init.php:94
+msgid "Rigel Barber"
+msgstr ""
+
+#: ../demo-importer/init.php:98
+msgid "Rigel Business"
+msgstr ""
+
+#: ../demo-importer/init.php:102
+msgid "Rigel Corporate"
+msgstr ""
+
+#: ../demo-importer/init.php:106
+msgid "Rigel- Default"
+msgstr ""
+
+#: ../demo-importer/init.php:110
+msgid "Digital Agency"
+msgstr ""
+
+#: ../demo-importer/init.php:114
+msgid "Rigel Freelancer"
+msgstr ""
+
+#: ../demo-importer/init.php:118
+msgid "Rigel Freelancer 2"
+msgstr ""
+
+#: ../demo-importer/init.php:122
+msgid "Rigel Portfolio"
+msgstr ""
+
+#: ../demo-importer/init.php:126
+msgid "Rigel Shop"
+msgstr ""
+
+#: ../demo-importer/init.php:130
+msgid "Rigel Startup"
+msgstr ""
+
+#: ../demo-importer/init.php:134
+msgid "Rigel Consulting"
+msgstr ""
+
+#: ../demo-importer/init.php:138
+msgid "Rigel App Landing"
+msgstr ""
+
+#: ../demo-importer/init.php:142
+msgid "Rigel Business 2"
+msgstr ""
+
+#: ../demo-importer/init.php:146
+msgid "Rigel Business 3"
+msgstr ""
+
+#: ../demo-importer/init.php:150
+msgid "Rigel Business 4"
+msgstr ""
+
+#: ../demo-importer/init.php:154
+msgid "Rigel Creative Agency"
+msgstr ""
+
+#: ../demo-importer/init.php:158
+msgid "Rigel Simple Portfolio 1"
+msgstr ""
+
+#: ../demo-importer/init.php:162
+msgid "Rigel Agency 2"
+msgstr ""
+
+#: ../demo-importer/init.php:166
+msgid "Rigel Agency 3"
+msgstr ""
+
+#: ../demo-importer/init.php:170
+msgid "Rigel Minimal Agency"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:83
+msgid "Decent Themes Demo Importer"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:94
+msgid "Re-Import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:95
+msgid "Imported"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:97
+msgid "Import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:98
+msgid "Not Imported"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:124
+msgid "Preview"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:192
+msgid "Error on import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:195
+msgid "File Error!!!"
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:42
+#: ../demo-importer/classes/parsers.php:72
+#: ../demo-importer/classes/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:84
+#: ../demo-importer/classes/parsers.php:89
+#: ../demo-importer/classes/parsers.php:279
+#: ../demo-importer/classes/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:134
+#: ../demo-importer/classes/wordpress-importer.php:143
+#: ../demo-importer/classes/wordpress-importer.php:194
+#: ../demo-importer/classes/wordpress-importer.php:198
+#: ../demo-importer/classes/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:511
+#: ../demo-importer/classes/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../includes/helper.php:19
+msgid ""
+"Please check if you have filled all the fields with valid information and "
+"try again. Thank you."
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/class-gallery-blocks.php:152
+#: ../includes/blocks/portfolio-blocks/class-portfolio-blocks.php:79
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:620
+msgid "All"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/class-gallery-blocks.php:290
+#: ../includes/blocks/portfolio-blocks/class-portfolio-blocks.php:181
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/class-gallery-blocks.php:293
+#: ../includes/blocks/portfolio-blocks/class-portfolio-blocks.php:184
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:7
+msgid "Gallery Block 1"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:8
+msgid "Gallery Block 2"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:9
+msgid "Gallery Block 3"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:10
+msgid "Gallery Block 4"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:11
+msgid "Gallery Block 5"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:12
+msgid "Gallery Block 6"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:13
+msgid "Gallery Block 7"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:14
+msgid "Gallery Block 8"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:15
+msgid "Gallery Block 9"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:16
+msgid "Gallery Block 10"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:17
+msgid "Gallery Block 11"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:18
+msgid "Gallery Block 12"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:36
+msgid "Image"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:39
+msgid "Select a icon image from media library."
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:44
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:173
+msgid "Enable Space in columns?"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:47
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:109
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:176
+#: ../includes/metaboxes/post-metabox.php:133
+#: ../includes/metaboxes/post-metabox.php:188
+#: ../includes/visual-composer/elements/vc_elements.php:49
+#: ../includes/visual-composer/elements/vc_elements.php:58
+#: ../includes/visual-composer/elements/vc_elements.php:83
+#: ../includes/visual-composer/elements/vc_elements.php:100
+#: ../includes/visual-composer/elements/vc_elements.php:109
+#: ../includes/visual-composer/elements/vc_elements.php:128
+#: ../includes/visual-composer/elements/vc_elements.php:153
+#: ../includes/visual-composer/elements/vc_elements.php:162
+#: ../includes/visual-composer/elements/vc_elements.php:197
+#: ../includes/visual-composer/elements/vc_elements.php:206
+#: ../includes/visual-composer/elements/vc_elements.php:225
+#: ../includes/visual-composer/elements/vc_elements.php:244
+#: ../includes/visual-composer/elements/vc_elements.php:253
+#: ../includes/visual-composer/elements/vc_elements.php:461
+#: ../includes/visual-composer/elements/vc_elements.php:483
+#: ../includes/visual-composer/elements/vc_elements.php:594
+#: ../includes/visual-composer/elements/vc_elements.php:683
+#: ../includes/visual-composer/elements/vc_elements.php:989
+#: ../includes/visual-composer/elements/vc_elements.php:1006
+#: ../includes/visual-composer/elements/vc_elements.php:1016
+#: ../includes/visual-composer/elements/vc_elements.php:1035
+#: ../includes/visual-composer/elements/vc_elements.php:1046
+#: ../includes/visual-composer/elements/vc_elements.php:1077
+#: ../includes/visual-composer/elements/vc_elements.php:1098
+#: ../includes/visual-composer/elements/vc_elements.php:1109
+#: ../includes/visual-composer/elements/vc_elements.php:1131
+#: ../includes/visual-composer/elements/vc_elements.php:1162
+#: ../includes/visual-composer/elements/vc_elements.php:1173
+#: ../includes/visual-composer/elements/vc_elements.php:1216
+#: ../includes/visual-composer/elements/vc_elements.php:1286
+#: ../includes/visual-composer/elements/vc_elements.php:1324
+#: ../includes/visual-composer/elements/vc_elements.php:1343
+#: ../includes/visual-composer/elements/vc_elements.php:1354
+#: ../includes/visual-composer/elements/vc_elements.php:1385
+#: ../includes/visual-composer/elements/vc_elements.php:1406
+#: ../includes/visual-composer/elements/vc_elements.php:1417
+#: ../includes/visual-composer/elements/vc_elements.php:1439
+#: ../includes/visual-composer/elements/vc_elements.php:1470
+#: ../includes/visual-composer/elements/vc_elements.php:1481
+#: ../includes/visual-composer/elements/vc_elements.php:1599
+#: ../includes/visual-composer/elements/vc_elements.php:1618
+#: ../includes/visual-composer/elements/vc_elements.php:1629
+#: ../includes/visual-composer/elements/vc_elements.php:1660
+#: ../includes/visual-composer/elements/vc_elements.php:1681
+#: ../includes/visual-composer/elements/vc_elements.php:1692
+#: ../includes/visual-composer/elements/vc_elements.php:1714
+#: ../includes/visual-composer/elements/vc_elements.php:1745
+#: ../includes/visual-composer/elements/vc_elements.php:1756
+#: ../includes/visual-composer/elements/vc_elements.php:1874
+#: ../includes/visual-composer/elements/vc_elements.php:1884
+#: ../includes/visual-composer/elements/vc_elements.php:1949
+#: ../includes/visual-composer/elements/vc_elements.php:2045
+#: ../includes/visual-composer/elements/vc_elements.php:2117
+#: ../includes/visual-composer/elements/vc_elements.php:2202
+#: ../includes/visual-composer/elements/vc_elements.php:2280
+#: ../includes/visual-composer/elements/vc_elements.php:2289
+#: ../includes/visual-composer/elements/vc_elements.php:2332
+#: ../includes/visual-composer/elements/vc_elements.php:2393
+#: ../includes/visual-composer/elements/vc_elements.php:2412
+#: ../includes/visual-composer/elements/vc_elements.php:2596
+#: ../includes/visual-composer/elements/vc_elements.php:2692
+#: ../includes/visual-composer/elements/vc_elements.php:2787
+#: ../includes/visual-composer/elements/vc_elements.php:2958
+#: ../includes/visual-composer/elements/vc_elements.php:3076
+#: ../includes/visual-composer/elements/vc_elements.php:3085
+#: ../includes/visual-composer/elements/vc_elements.php:3094
+#: ../includes/visual-composer/elements/vc_elements.php:3103
+#: ../includes/visual-composer/elements/vc_elements.php:3112
+#: ../includes/visual-composer/elements/vc_elements.php:3121
+#: ../includes/visual-composer/elements/vc_elements.php:3130
+#: ../includes/visual-composer/elements/vc_elements.php:3201
+#: ../includes/visual-composer/elements/vc_elements.php:3220
+#: ../includes/visual-composer/elements/vc_elements.php:3264
+#: ../includes/visual-composer/elements/vc_elements.php:3283
+#: ../includes/visual-composer/elements/vc_elements.php:3294
+#: ../includes/visual-composer/elements/vc_elements.php:3325
+#: ../includes/visual-composer/elements/vc_elements.php:3346
+#: ../includes/visual-composer/elements/vc_elements.php:3357
+#: ../includes/visual-composer/elements/vc_elements.php:3379
+#: ../includes/visual-composer/elements/vc_elements.php:3410
+#: ../includes/visual-composer/elements/vc_elements.php:3421
+#: ../includes/visual-composer/elements/vc_elements.php:3648
+#: ../includes/visual-composer/elements/vc_elements.php:3657
+#: ../includes/visual-composer/elements/vc_elements.php:3666
+#: ../includes/visual-composer/elements/vc_elements.php:3675
+#: ../includes/visual-composer/elements/vc_elements.php:3694
+#: ../includes/visual-composer/elements/vc_elements.php:3705
+#: ../includes/visual-composer/elements/vc_elements.php:3736
+#: ../includes/visual-composer/elements/vc_elements.php:3757
+#: ../includes/visual-composer/elements/vc_elements.php:3768
+#: ../includes/visual-composer/elements/vc_elements.php:3790
+#: ../includes/visual-composer/elements/vc_elements.php:3821
+#: ../includes/visual-composer/elements/vc_elements.php:3832
+#: ../includes/visual-composer/elements/vc_elements.php:4117
+#: ../includes/visual-composer/elements/vc_elements.php:4160
+#: ../includes/visual-composer/elements/vc_elements.php:4178
+#: ../includes/visual-composer/elements/vc_elements.php:4329
+#: ../includes/visual-composer/elements/vc_elements.php:4338
+#: ../includes/visual-composer/elements/vc_elements.php:4393
+#: ../includes/visual-composer/elements/vc_elements.php:4402
+msgid "No"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:48
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:108
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:177
+#: ../includes/metaboxes/post-metabox.php:132
+#: ../includes/metaboxes/post-metabox.php:187
+#: ../includes/visual-composer/elements/vc_elements.php:50
+#: ../includes/visual-composer/elements/vc_elements.php:59
+#: ../includes/visual-composer/elements/vc_elements.php:83
+#: ../includes/visual-composer/elements/vc_elements.php:99
+#: ../includes/visual-composer/elements/vc_elements.php:108
+#: ../includes/visual-composer/elements/vc_elements.php:127
+#: ../includes/visual-composer/elements/vc_elements.php:152
+#: ../includes/visual-composer/elements/vc_elements.php:161
+#: ../includes/visual-composer/elements/vc_elements.php:196
+#: ../includes/visual-composer/elements/vc_elements.php:207
+#: ../includes/visual-composer/elements/vc_elements.php:226
+#: ../includes/visual-composer/elements/vc_elements.php:243
+#: ../includes/visual-composer/elements/vc_elements.php:252
+#: ../includes/visual-composer/elements/vc_elements.php:460
+#: ../includes/visual-composer/elements/vc_elements.php:482
+#: ../includes/visual-composer/elements/vc_elements.php:595
+#: ../includes/visual-composer/elements/vc_elements.php:682
+#: ../includes/visual-composer/elements/vc_elements.php:988
+#: ../includes/visual-composer/elements/vc_elements.php:1007
+#: ../includes/visual-composer/elements/vc_elements.php:1015
+#: ../includes/visual-composer/elements/vc_elements.php:1036
+#: ../includes/visual-composer/elements/vc_elements.php:1047
+#: ../includes/visual-composer/elements/vc_elements.php:1077
+#: ../includes/visual-composer/elements/vc_elements.php:1097
+#: ../includes/visual-composer/elements/vc_elements.php:1108
+#: ../includes/visual-composer/elements/vc_elements.php:1130
+#: ../includes/visual-composer/elements/vc_elements.php:1161
+#: ../includes/visual-composer/elements/vc_elements.php:1172
+#: ../includes/visual-composer/elements/vc_elements.php:1215
+#: ../includes/visual-composer/elements/vc_elements.php:1287
+#: ../includes/visual-composer/elements/vc_elements.php:1324
+#: ../includes/visual-composer/elements/vc_elements.php:1344
+#: ../includes/visual-composer/elements/vc_elements.php:1355
+#: ../includes/visual-composer/elements/vc_elements.php:1385
+#: ../includes/visual-composer/elements/vc_elements.php:1405
+#: ../includes/visual-composer/elements/vc_elements.php:1416
+#: ../includes/visual-composer/elements/vc_elements.php:1438
+#: ../includes/visual-composer/elements/vc_elements.php:1469
+#: ../includes/visual-composer/elements/vc_elements.php:1480
+#: ../includes/visual-composer/elements/vc_elements.php:1598
+#: ../includes/visual-composer/elements/vc_elements.php:1619
+#: ../includes/visual-composer/elements/vc_elements.php:1630
+#: ../includes/visual-composer/elements/vc_elements.php:1660
+#: ../includes/visual-composer/elements/vc_elements.php:1680
+#: ../includes/visual-composer/elements/vc_elements.php:1691
+#: ../includes/visual-composer/elements/vc_elements.php:1713
+#: ../includes/visual-composer/elements/vc_elements.php:1744
+#: ../includes/visual-composer/elements/vc_elements.php:1755
+#: ../includes/visual-composer/elements/vc_elements.php:1875
+#: ../includes/visual-composer/elements/vc_elements.php:1883
+#: ../includes/visual-composer/elements/vc_elements.php:1950
+#: ../includes/visual-composer/elements/vc_elements.php:2046
+#: ../includes/visual-composer/elements/vc_elements.php:2116
+#: ../includes/visual-composer/elements/vc_elements.php:2203
+#: ../includes/visual-composer/elements/vc_elements.php:2279
+#: ../includes/visual-composer/elements/vc_elements.php:2288
+#: ../includes/visual-composer/elements/vc_elements.php:2331
+#: ../includes/visual-composer/elements/vc_elements.php:2394
+#: ../includes/visual-composer/elements/vc_elements.php:2413
+#: ../includes/visual-composer/elements/vc_elements.php:2595
+#: ../includes/visual-composer/elements/vc_elements.php:2691
+#: ../includes/visual-composer/elements/vc_elements.php:2788
+#: ../includes/visual-composer/elements/vc_elements.php:2959
+#: ../includes/visual-composer/elements/vc_elements.php:3075
+#: ../includes/visual-composer/elements/vc_elements.php:3084
+#: ../includes/visual-composer/elements/vc_elements.php:3093
+#: ../includes/visual-composer/elements/vc_elements.php:3102
+#: ../includes/visual-composer/elements/vc_elements.php:3111
+#: ../includes/visual-composer/elements/vc_elements.php:3120
+#: ../includes/visual-composer/elements/vc_elements.php:3129
+#: ../includes/visual-composer/elements/vc_elements.php:3200
+#: ../includes/visual-composer/elements/vc_elements.php:3219
+#: ../includes/visual-composer/elements/vc_elements.php:3263
+#: ../includes/visual-composer/elements/vc_elements.php:3284
+#: ../includes/visual-composer/elements/vc_elements.php:3295
+#: ../includes/visual-composer/elements/vc_elements.php:3325
+#: ../includes/visual-composer/elements/vc_elements.php:3345
+#: ../includes/visual-composer/elements/vc_elements.php:3356
+#: ../includes/visual-composer/elements/vc_elements.php:3378
+#: ../includes/visual-composer/elements/vc_elements.php:3409
+#: ../includes/visual-composer/elements/vc_elements.php:3420
+#: ../includes/visual-composer/elements/vc_elements.php:3647
+#: ../includes/visual-composer/elements/vc_elements.php:3656
+#: ../includes/visual-composer/elements/vc_elements.php:3665
+#: ../includes/visual-composer/elements/vc_elements.php:3674
+#: ../includes/visual-composer/elements/vc_elements.php:3695
+#: ../includes/visual-composer/elements/vc_elements.php:3706
+#: ../includes/visual-composer/elements/vc_elements.php:3736
+#: ../includes/visual-composer/elements/vc_elements.php:3756
+#: ../includes/visual-composer/elements/vc_elements.php:3767
+#: ../includes/visual-composer/elements/vc_elements.php:3789
+#: ../includes/visual-composer/elements/vc_elements.php:3820
+#: ../includes/visual-composer/elements/vc_elements.php:3831
+#: ../includes/visual-composer/elements/vc_elements.php:4116
+#: ../includes/visual-composer/elements/vc_elements.php:4159
+#: ../includes/visual-composer/elements/vc_elements.php:4179
+#: ../includes/visual-composer/elements/vc_elements.php:4330
+#: ../includes/visual-composer/elements/vc_elements.php:4339
+#: ../includes/visual-composer/elements/vc_elements.php:4394
+#: ../includes/visual-composer/elements/vc_elements.php:4403
+msgid "Yes"
+msgstr ""
+
+#: ../includes/blocks/gallery-blocks/gallery-block-vc.php:50
+msgid "Choose Yes to enable Space ( margin inbetween columns )"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-ajax.php:84
+msgid "Portfolio Not Found."
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-shortcode.php:17
+#: ../includes/visual-composer/elements/vc_elements.php:1313
+#: ../includes/visual-composer/elements/vc_elements.php:1579
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:546
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:861
+msgid "Loadmore"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-shortcode.php:179
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:811
+msgid "No Portfolio Items Found."
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:7
+msgid "Portfolio Block 1"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:8
+msgid "Portfolio Block 2"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:9
+msgid "Portfolio Block 3"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:10
+msgid "Portfolio Block 4"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:11
+msgid "Portfolio Block 5"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:12
+msgid "Portfolio Block 6"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:13
+msgid "Portfolio Block 7"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:14
+msgid "Portfolio Block 8"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:15
+msgid "Portfolio Block 9"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:16
+msgid "Portfolio Block 10"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:17
+msgid "Portfolio Block 11"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:18
+msgid "Portfolio Block 12"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:94
+msgid "Insert Portfolio By"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:97
+msgid "Posts"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:98
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:124
+msgid "Id"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:105
+msgid "Show Filter"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:111
+msgid "Do you want to display filter"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:116
+#: ../includes/visual-composer/elements/vc_elements.php:1293
+msgid "HTML Tag for portfolio Name"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:119
+#: ../includes/visual-composer/elements/vc_elements.php:1296
+msgid "Choose which html tag you want use for portfolio name."
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:127
+#: ../includes/visual-composer/elements/vc_elements.php:1261
+msgid "Enter the portfolio ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:133
+#: ../includes/visual-composer/elements/vc_elements.php:1266
+msgid "Exclude Portfolio"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:136
+#: ../includes/visual-composer/elements/vc_elements.php:1269
+msgid ""
+"Enter the portfolio id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:141
+#: ../includes/visual-composer/elements/vc_elements.php:923
+#: ../includes/visual-composer/elements/vc_elements.php:941
+#: ../includes/visual-composer/elements/vc_elements.php:1230
+#: ../includes/visual-composer/elements/vc_elements.php:1247
+#: ../includes/visual-composer/elements/vc_elements.php:1519
+#: ../includes/visual-composer/elements/vc_elements.php:1537
+#: ../includes/visual-composer/elements/vc_elements.php:3589
+msgid "Order By"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:144
+#: ../includes/visual-composer/elements/vc_elements.php:932
+#: ../includes/visual-composer/elements/vc_elements.php:1239
+#: ../includes/visual-composer/elements/vc_elements.php:1528
+#: ../includes/visual-composer/elements/vc_elements.php:3598
+msgid "Date Modified"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:145
+#: ../includes/posttypes/posttypes.php:72
+#: ../includes/posttypes/posttypes.php:117
+#: ../includes/posttypes/posttypes.php:157
+#: ../includes/visual-composer/elements/vc_elements.php:925
+#: ../includes/visual-composer/elements/vc_elements.php:1232
+#: ../includes/visual-composer/elements/vc_elements.php:1521
+#: ../includes/visual-composer/elements/vc_elements.php:3591
+msgid "Date"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:146
+#: ../includes/visual-composer/elements/vc_elements.php:926
+#: ../includes/visual-composer/elements/vc_elements.php:1233
+#: ../includes/visual-composer/elements/vc_elements.php:1522
+#: ../includes/visual-composer/elements/vc_elements.php:3592
+msgid "Rand"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:147
+#: ../includes/visual-composer/elements/vc_elements.php:927
+#: ../includes/visual-composer/elements/vc_elements.php:1234
+#: ../includes/visual-composer/elements/vc_elements.php:1523
+#: ../includes/visual-composer/elements/vc_elements.php:3593
+msgid "ID"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:148
+#: ../includes/visual-composer/elements/vc_elements.php:272
+#: ../includes/visual-composer/elements/vc_elements.php:928
+#: ../includes/visual-composer/elements/vc_elements.php:1235
+#: ../includes/visual-composer/elements/vc_elements.php:1524
+#: ../includes/visual-composer/elements/vc_elements.php:1830
+#: ../includes/visual-composer/elements/vc_elements.php:2096
+#: ../includes/visual-composer/elements/vc_elements.php:2576
+#: ../includes/visual-composer/elements/vc_elements.php:2911
+#: ../includes/visual-composer/elements/vc_elements.php:2915
+#: ../includes/visual-composer/elements/vc_elements.php:2924
+#: ../includes/visual-composer/elements/vc_elements.php:2933
+#: ../includes/visual-composer/elements/vc_elements.php:2943
+#: ../includes/visual-composer/elements/vc_elements.php:3594
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1271
+msgid "Title"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:149
+#: ../includes/visual-composer/elements/vc_elements.php:929
+#: ../includes/visual-composer/elements/vc_elements.php:1236
+#: ../includes/visual-composer/elements/vc_elements.php:1525
+#: ../includes/visual-composer/elements/vc_elements.php:3595
+msgid "Author"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:150
+#: ../includes/visual-composer/elements/vc_elements.php:930
+#: ../includes/visual-composer/elements/vc_elements.php:1237
+#: ../includes/visual-composer/elements/vc_elements.php:1526
+#: ../includes/visual-composer/elements/vc_elements.php:3596
+msgid "Name"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:151
+#: ../includes/visual-composer/elements/vc_elements.php:931
+#: ../includes/visual-composer/elements/vc_elements.php:1238
+#: ../includes/visual-composer/elements/vc_elements.php:1527
+#: ../includes/visual-composer/elements/vc_elements.php:3597
+msgid "Parent"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:152
+#: ../includes/visual-composer/elements/vc_elements.php:933
+#: ../includes/visual-composer/elements/vc_elements.php:1240
+#: ../includes/visual-composer/elements/vc_elements.php:1529
+#: ../includes/visual-composer/elements/vc_elements.php:3599
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:153
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:187
+#: ../includes/visual-composer/elements/vc_elements.php:303
+#: ../includes/visual-composer/elements/vc_elements.php:390
+#: ../includes/visual-composer/elements/vc_elements.php:934
+#: ../includes/visual-composer/elements/vc_elements.php:1241
+#: ../includes/visual-composer/elements/vc_elements.php:1312
+#: ../includes/visual-composer/elements/vc_elements.php:1530
+#: ../includes/visual-composer/elements/vc_elements.php:1578
+#: ../includes/visual-composer/elements/vc_elements.php:3600
+#: ../includes/visual-composer/elements/vc_elements.php:3970
+msgid "None"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:156
+#: ../includes/visual-composer/elements/vc_elements.php:3602
+msgid "Order posts By choosen order"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:161
+#: ../includes/visual-composer/elements/vc_elements.php:3607
+msgid "Order"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:164
+msgid "Descending order"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:165
+#: ../includes/visual-composer/elements/vc_elements.php:943
+#: ../includes/visual-composer/elements/vc_elements.php:1249
+#: ../includes/visual-composer/elements/vc_elements.php:1539
+#: ../includes/visual-composer/elements/vc_elements.php:3609
+msgid "Ascending order"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:179
+msgid "Choose Yes to enable Space ( margin inbetween columns ) "
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:184
+#: ../includes/visual-composer/elements/vc_elements.php:1309
+#: ../includes/visual-composer/elements/vc_elements.php:1575
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:188
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:200
+msgid "Load More"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:189
+#: ../includes/visual-composer/elements/vc_elements.php:1314
+#: ../includes/visual-composer/elements/vc_elements.php:1580
+msgid "Autoload"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:190
+msgid "Number"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:191
+msgid "Text"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:198
+#: ../includes/visual-composer/elements/vc_elements.php:1301
+#: ../includes/visual-composer/elements/vc_elements.php:1588
+msgid "Load More Text"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:201
+msgid "Enter the load more text"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:206
+msgid "All Post Loaded Text"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:208
+msgid "All Portfolio Loaded"
+msgstr ""
+
+#: ../includes/blocks/portfolio-blocks/portfolio-block-vc.php:209
+msgid "Enter the all post loaded text"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:6
+#: ../includes/metaboxes/portfolio-metabox.php:6
+#: ../includes/metaboxes/post-metabox.php:6
+#: ../includes/metaboxes/staff-metabox.php:6
+msgid "Fade In"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:7
+#: ../includes/metaboxes/portfolio-metabox.php:7
+#: ../includes/metaboxes/post-metabox.php:7
+#: ../includes/metaboxes/staff-metabox.php:7
+msgid "Fade In Up"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:8
+#: ../includes/metaboxes/portfolio-metabox.php:8
+#: ../includes/metaboxes/post-metabox.php:8
+#: ../includes/metaboxes/staff-metabox.php:8
+msgid "Fade In Down"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:9
+#: ../includes/metaboxes/portfolio-metabox.php:9
+#: ../includes/metaboxes/post-metabox.php:9
+#: ../includes/metaboxes/staff-metabox.php:9
+msgid "Fade In Left"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:10
+#: ../includes/metaboxes/portfolio-metabox.php:10
+#: ../includes/metaboxes/post-metabox.php:10
+#: ../includes/metaboxes/staff-metabox.php:10
+msgid "Fade In Right"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:11
+#: ../includes/metaboxes/portfolio-metabox.php:11
+#: ../includes/metaboxes/post-metabox.php:11
+#: ../includes/metaboxes/staff-metabox.php:11
+msgid "Zoom In"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:12
+#: ../includes/metaboxes/portfolio-metabox.php:12
+#: ../includes/metaboxes/post-metabox.php:12
+#: ../includes/metaboxes/staff-metabox.php:12
+msgid "Zoom In Up"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:13
+#: ../includes/metaboxes/portfolio-metabox.php:13
+#: ../includes/metaboxes/post-metabox.php:13
+#: ../includes/metaboxes/staff-metabox.php:13
+msgid "Zoom In Down"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:14
+#: ../includes/metaboxes/portfolio-metabox.php:14
+#: ../includes/metaboxes/post-metabox.php:14
+#: ../includes/metaboxes/staff-metabox.php:14
+msgid "Zoom In Left"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:15
+#: ../includes/metaboxes/portfolio-metabox.php:15
+#: ../includes/metaboxes/post-metabox.php:15
+#: ../includes/metaboxes/staff-metabox.php:15
+msgid "Zoom In Right"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:31
+#: ../includes/metaboxes/portfolio-metabox.php:31
+#: ../includes/metaboxes/post-metabox.php:31
+#: ../includes/metaboxes/staff-metabox.php:31
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:40
+#: ../includes/metaboxes/portfolio-metabox.php:142
+#: ../includes/metaboxes/post-metabox.php:234
+#: ../includes/metaboxes/staff-metabox.php:102
+msgid "General"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:47
+#: ../includes/metaboxes/portfolio-metabox.php:149
+#: ../includes/metaboxes/post-metabox.php:253
+#: ../includes/metaboxes/staff-metabox.php:109
+msgid "Body Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:48
+#: ../includes/metaboxes/portfolio-metabox.php:150
+#: ../includes/metaboxes/post-metabox.php:254
+#: ../includes/metaboxes/staff-metabox.php:110
+msgid ""
+"You can choose body background color here. Leave it empty to apply defaults"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:55
+#: ../includes/metaboxes/portfolio-metabox.php:157
+#: ../includes/metaboxes/post-metabox.php:261
+#: ../includes/metaboxes/staff-metabox.php:117
+msgid "Header Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:56
+#: ../includes/metaboxes/portfolio-metabox.php:158
+#: ../includes/metaboxes/post-metabox.php:262
+#: ../includes/metaboxes/staff-metabox.php:118
+msgid "Choose header layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:71
+#: ../includes/metaboxes/portfolio-metabox.php:173
+#: ../includes/metaboxes/post-metabox.php:277
+#: ../includes/metaboxes/staff-metabox.php:133
+msgid "Header Transparency"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:72
+#: ../includes/metaboxes/portfolio-metabox.php:174
+#: ../includes/metaboxes/post-metabox.php:278
+#: ../includes/metaboxes/staff-metabox.php:134
+msgid ""
+"Enable / Disable Header Transparency for this page. Choose Default if you "
+"want to apply theme option settings"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:76
+#: ../includes/metaboxes/portfolio-metabox.php:178
+#: ../includes/metaboxes/post-metabox.php:282
+#: ../includes/metaboxes/staff-metabox.php:138
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:77
+#: ../includes/metaboxes/portfolio-metabox.php:179
+#: ../includes/metaboxes/post-metabox.php:283
+#: ../includes/metaboxes/staff-metabox.php:139
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:84
+#: ../includes/metaboxes/portfolio-metabox.php:186
+#: ../includes/metaboxes/post-metabox.php:290
+#: ../includes/metaboxes/staff-metabox.php:146
+msgid "Header Transparency Value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:85
+#: ../includes/metaboxes/portfolio-metabox.php:187
+#: ../includes/metaboxes/post-metabox.php:291
+#: ../includes/metaboxes/staff-metabox.php:147
+msgid ""
+"Choose a transparency for the header background color (0 = fully "
+"transparent, 50 = 50% transparent & 100 = opaque)"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:92
+#: ../includes/metaboxes/portfolio-metabox.php:194
+#: ../includes/metaboxes/post-metabox.php:298
+#: ../includes/metaboxes/staff-metabox.php:154
+#: ../includes/visual-composer/elements/vc_elements.php:468
+msgid "Header Text Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:93
+#: ../includes/metaboxes/portfolio-metabox.php:195
+#: ../includes/metaboxes/post-metabox.php:299
+#: ../includes/metaboxes/staff-metabox.php:155
+msgid "Choose header text color, this affects header menu and icon colors"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:97
+#: ../includes/metaboxes/portfolio-metabox.php:199
+#: ../includes/metaboxes/post-metabox.php:303
+#: ../includes/metaboxes/staff-metabox.php:159
+#: ../includes/visual-composer/elements/vc_elements.php:471
+#: ../includes/visual-composer/elements/vc_elements.php:537
+#: ../includes/visual-composer/elements/vc_elements.php:550
+#: ../includes/visual-composer/elements/vc_elements.php:795
+#: ../includes/visual-composer/elements/vc_elements.php:1925
+#: ../includes/visual-composer/elements/vc_elements.php:2158
+#: ../includes/visual-composer/elements/vc_elements.php:2733
+#: ../includes/visual-composer/elements/vc_elements.php:4309
+msgid "Black"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:98
+#: ../includes/metaboxes/portfolio-metabox.php:200
+#: ../includes/metaboxes/post-metabox.php:304
+#: ../includes/metaboxes/staff-metabox.php:160
+#: ../includes/visual-composer/elements/vc_elements.php:472
+#: ../includes/visual-composer/elements/vc_elements.php:538
+#: ../includes/visual-composer/elements/vc_elements.php:551
+#: ../includes/visual-composer/elements/vc_elements.php:794
+#: ../includes/visual-composer/elements/vc_elements.php:1926
+#: ../includes/visual-composer/elements/vc_elements.php:2159
+#: ../includes/visual-composer/elements/vc_elements.php:2734
+#: ../includes/visual-composer/elements/vc_elements.php:4310
+msgid "White"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:105
+#: ../includes/metaboxes/portfolio-metabox.php:207
+#: ../includes/metaboxes/post-metabox.php:311
+#: ../includes/metaboxes/staff-metabox.php:167
+msgid "Main Navigation"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:106
+#: ../includes/metaboxes/portfolio-metabox.php:208
+#: ../includes/metaboxes/post-metabox.php:312
+#: ../includes/metaboxes/staff-metabox.php:168
+msgid "Select main navigation for this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:114
+#: ../includes/metaboxes/portfolio-metabox.php:216
+#: ../includes/metaboxes/post-metabox.php:320
+#: ../includes/metaboxes/staff-metabox.php:176
+msgid "Left Header Menu"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:115
+#: ../includes/metaboxes/portfolio-metabox.php:217
+#: ../includes/metaboxes/post-metabox.php:321
+#: ../includes/metaboxes/staff-metabox.php:177
+msgid "Select left navigation for this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:123
+#: ../includes/metaboxes/portfolio-metabox.php:225
+#: ../includes/metaboxes/post-metabox.php:329
+#: ../includes/metaboxes/staff-metabox.php:185
+msgid "Right Header Menu"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:124
+#: ../includes/metaboxes/portfolio-metabox.php:226
+#: ../includes/metaboxes/post-metabox.php:330
+#: ../includes/metaboxes/staff-metabox.php:186
+msgid "Select right navigation for this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:132
+#: ../includes/metaboxes/portfolio-metabox.php:234
+#: ../includes/metaboxes/post-metabox.php:338
+#: ../includes/metaboxes/staff-metabox.php:194
+msgid "Page Transition"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:133
+#: ../includes/metaboxes/portfolio-metabox.php:235
+#: ../includes/metaboxes/post-metabox.php:339
+#: ../includes/metaboxes/staff-metabox.php:195
+msgid ""
+"Select Page transition, this option only work if you enabled preloader in "
+"themeoption"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:141
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:142
+msgid "Enter Slider Shortcode here. This will display below header/title bar."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:148
+#: ../includes/metaboxes/post-metabox.php:207
+#: ../includes/metaboxes/post-metabox.php:430
+msgid "Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:155
+#: ../includes/metaboxes/post-metabox.php:437
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:156
+#: ../includes/metaboxes/post-metabox.php:215
+#: ../includes/metaboxes/post-metabox.php:438
+msgid "Choose page layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:170
+#: ../includes/metaboxes/post-metabox.php:227
+#: ../includes/metaboxes/post-metabox.php:452
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:171
+#: ../includes/metaboxes/post-metabox.php:228
+#: ../includes/metaboxes/post-metabox.php:453
+msgid "Select Sidebar For this page."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:177
+#: ../includes/metaboxes/portfolio-metabox.php:242
+#: ../includes/metaboxes/post-metabox.php:346
+#: ../includes/metaboxes/staff-metabox.php:202
+msgid "Title Bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:184
+#: ../includes/metaboxes/portfolio-metabox.php:249
+#: ../includes/metaboxes/post-metabox.php:353
+#: ../includes/metaboxes/staff-metabox.php:209
+msgid "Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:185
+#: ../includes/metaboxes/portfolio-metabox.php:250
+#: ../includes/metaboxes/post-metabox.php:354
+#: ../includes/metaboxes/staff-metabox.php:210
+msgid "Show / Hide Title bar in this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:189
+#: ../includes/metaboxes/page-metabox.php:202
+#: ../includes/metaboxes/page-metabox.php:273
+#: ../includes/metaboxes/page-metabox.php:286
+#: ../includes/metaboxes/portfolio-metabox.php:254
+#: ../includes/metaboxes/portfolio-metabox.php:267
+#: ../includes/metaboxes/post-metabox.php:245
+#: ../includes/metaboxes/post-metabox.php:358
+#: ../includes/metaboxes/post-metabox.php:371
+#: ../includes/metaboxes/staff-metabox.php:214
+#: ../includes/metaboxes/staff-metabox.php:227
+msgid "Show"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:190
+#: ../includes/metaboxes/page-metabox.php:203
+#: ../includes/metaboxes/page-metabox.php:274
+#: ../includes/metaboxes/page-metabox.php:287
+#: ../includes/metaboxes/portfolio-metabox.php:255
+#: ../includes/metaboxes/portfolio-metabox.php:268
+#: ../includes/metaboxes/post-metabox.php:246
+#: ../includes/metaboxes/post-metabox.php:359
+#: ../includes/metaboxes/post-metabox.php:372
+#: ../includes/metaboxes/staff-metabox.php:215
+#: ../includes/metaboxes/staff-metabox.php:228
+msgid "Hide"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:197
+#: ../includes/metaboxes/portfolio-metabox.php:262
+#: ../includes/metaboxes/post-metabox.php:366
+#: ../includes/metaboxes/staff-metabox.php:222
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:198
+#: ../includes/metaboxes/portfolio-metabox.php:263
+#: ../includes/metaboxes/post-metabox.php:367
+#: ../includes/metaboxes/staff-metabox.php:223
+msgid "Show / Hide breadcrumbs in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:210
+#: ../includes/metaboxes/portfolio-metabox.php:275
+#: ../includes/metaboxes/post-metabox.php:379
+#: ../includes/metaboxes/staff-metabox.php:235
+msgid "Title bar Size"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:211
+#: ../includes/metaboxes/portfolio-metabox.php:276
+#: ../includes/metaboxes/post-metabox.php:380
+#: ../includes/metaboxes/staff-metabox.php:236
+msgid "Choose title bar size"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:215
+#: ../includes/metaboxes/portfolio-metabox.php:280
+#: ../includes/metaboxes/post-metabox.php:384
+#: ../includes/metaboxes/staff-metabox.php:240
+#: ../includes/visual-composer/elements/vc_elements.php:1938
+#: ../includes/visual-composer/elements/vc_elements.php:2171
+#: ../includes/visual-composer/elements/vc_elements.php:2745
+#: ../includes/visual-composer/elements/vc_elements.php:4320
+msgid "Small"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:216
+#: ../includes/metaboxes/portfolio-metabox.php:281
+#: ../includes/metaboxes/post-metabox.php:385
+#: ../includes/metaboxes/staff-metabox.php:241
+#: ../includes/visual-composer/elements/vc_elements.php:1937
+#: ../includes/visual-composer/elements/vc_elements.php:2170
+#: ../includes/visual-composer/elements/vc_elements.php:2746
+#: ../includes/visual-composer/elements/vc_elements.php:4126
+#: ../includes/visual-composer/elements/vc_elements.php:4319
+msgid "Medium"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:217
+#: ../includes/metaboxes/portfolio-metabox.php:282
+#: ../includes/metaboxes/post-metabox.php:386
+#: ../includes/metaboxes/staff-metabox.php:242
+#: ../includes/visual-composer/elements/vc_elements.php:1939
+#: ../includes/visual-composer/elements/vc_elements.php:2172
+#: ../includes/visual-composer/elements/vc_elements.php:2747
+#: ../includes/visual-composer/elements/vc_elements.php:4127
+#: ../includes/visual-composer/elements/vc_elements.php:4321
+msgid "Large"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:224
+#: ../includes/metaboxes/portfolio-metabox.php:289
+#: ../includes/metaboxes/post-metabox.php:393
+#: ../includes/metaboxes/staff-metabox.php:249
+msgid "Title Bar Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:225
+#: ../includes/metaboxes/portfolio-metabox.php:290
+#: ../includes/metaboxes/post-metabox.php:394
+#: ../includes/metaboxes/staff-metabox.php:250
+msgid "Choose title bar style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:229
+#: ../includes/metaboxes/portfolio-metabox.php:294
+#: ../includes/metaboxes/post-metabox.php:398
+#: ../includes/metaboxes/staff-metabox.php:254
+#: ../includes/visual-composer/elements/vc_elements.php:4128
+msgid "Custom"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:237
+#: ../includes/metaboxes/portfolio-metabox.php:302
+#: ../includes/metaboxes/post-metabox.php:406
+#: ../includes/metaboxes/staff-metabox.php:262
+msgid "Title Bar Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:238
+#: ../includes/metaboxes/portfolio-metabox.php:303
+#: ../includes/metaboxes/post-metabox.php:407
+#: ../includes/metaboxes/staff-metabox.php:263
+msgid "Choose Title bar background color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:245
+#: ../includes/metaboxes/portfolio-metabox.php:310
+#: ../includes/metaboxes/post-metabox.php:414
+#: ../includes/metaboxes/staff-metabox.php:270
+msgid "Title Bar Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:246
+#: ../includes/metaboxes/portfolio-metabox.php:311
+#: ../includes/metaboxes/post-metabox.php:415
+#: ../includes/metaboxes/staff-metabox.php:271
+msgid ""
+"Choose Title bar background image. Leave it empty apply default from "
+"themeoption"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:254
+#: ../includes/metaboxes/portfolio-metabox.php:319
+#: ../includes/metaboxes/post-metabox.php:423
+#: ../includes/metaboxes/staff-metabox.php:279
+msgid "Title Bar text Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:255
+#: ../includes/metaboxes/portfolio-metabox.php:320
+#: ../includes/metaboxes/post-metabox.php:424
+#: ../includes/metaboxes/staff-metabox.php:280
+msgid "Choose Title bar text color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:261
+msgid "Footer Options"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:268
+msgid "Show/Hide Footer Widget"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:269
+msgid "Show/Hide Footer Widget in this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:281
+msgid "Show/Hide Footer Copyright"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:282
+msgid "Show/Hide Footer Copyright Section in this page"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:40
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:47
+msgid "Single Portfolio Style"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:48
+msgid "Please choose the single portfolio style"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:51
+msgid "Video"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:52
+#: ../includes/metaboxes/post-metabox.php:47
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:59
+msgid "Portfolio Video"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:60
+msgid "Choose the portfolio video"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:69
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:70
+msgid ""
+"You can select single or multiple images, if you select more than one images "
+"it act as a slider"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:79
+msgid "Portfolio Masonry Thumb Size"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:80
+msgid ""
+"This option help to determine the image size in portfolio page (Masonry "
+"portfolio list shortcode)"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:83
+msgid "Square small"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:84
+msgid "Square Large"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:85
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:86
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:93
+#: ../includes/metaboxes/post-metabox.php:58
+msgid "Auto Slide"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:94
+#: ../includes/metaboxes/post-metabox.php:59
+msgid ""
+"To Enable autoplay or autoslide please type numeric value in milliseconds"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:102
+msgid "Client Name"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:103
+msgid "Enter the client name."
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:111
+msgid "Tasks"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:112
+msgid "Enter the tasks."
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:120
+msgid "Project URL"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:121
+msgid "Type the URL of the project"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:122
+msgid "If this field is empty the button wont display"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:129
+msgid "Target"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:130
+msgid "Do you want to open the project in new tab?"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:40
+msgid "Post Format Options"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:48
+msgid "Select images for gallery post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:60
+msgid ""
+"Ex: 2000, also you can enter true to set default duration(5000). Leave it "
+"blank or enter false to disable auto slide"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:68
+msgid "Link"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:69
+msgid "Type the external link it applies only in link post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:77
+msgid "Quote Author"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:78
+msgid "Enter the Author Name it applies only in quote post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:86
+msgid "Video Methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:87
+msgid "Choose the video methods such as (Direct insert or Iframe)"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:92
+#: ../includes/metaboxes/post-metabox.php:159
+#: ../includes/visual-composer/elements/vc_elements.php:2482
+msgid "Normal"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:93
+#: ../includes/metaboxes/post-metabox.php:160
+msgid "Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:102
+msgid "Select Normal Video"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:103
+msgid "Choose or Upload video from Media Uploader"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:114
+msgid "Poster"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:115
+msgid "Choose or Upload image from Media Uploader for video poster"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:126
+#: ../includes/metaboxes/post-metabox.php:181
+#: ../includes/visual-composer/elements/vc_elements.php:81
+#: ../includes/visual-composer/elements/vc_elements.php:223
+#: ../includes/visual-composer/elements/vc_elements.php:1075
+#: ../includes/visual-composer/elements/vc_elements.php:1383
+#: ../includes/visual-composer/elements/vc_elements.php:1658
+#: ../includes/visual-composer/elements/vc_elements.php:3323
+#: ../includes/visual-composer/elements/vc_elements.php:3734
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:127
+msgid "If it's true, the videos plays automatically when the page loads"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:142
+msgid "Video Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:143
+msgid ""
+"Enter Video iframe (Please enter embed code form YouTube / Vimeo / Blip.tv / "
+"Viddler / Kickstarter )"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:153
+msgid "Audio Methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:154
+msgid "Choose the audio methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:169
+msgid "Select Normal Audio"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:170
+msgid "Choose or Upload audio from Media Uploader"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:182
+msgid "If it's true, the audios plays automatically when the page loads"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:197
+msgid "Audio Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:198
+msgid ""
+"Enter audio iframe (Please enter embed code form YouTube / Vimeo / Blip.tv / "
+"Viddler / Kickstarter )"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:214
+msgid "Post Layout"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:241
+msgid "Featured Image in single post"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:242
+msgid "Show / Hide Featured Image in single post"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:40
+msgid "Social Links"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:47
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:54
+#: ../includes/visual-composer/elements/vc_elements.php:4488
+msgid "Twitter Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:61
+msgid "Google Plus Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:68
+#: ../includes/visual-composer/elements/vc_elements.php:4512
+msgid "Dribbble Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:75
+msgid "Linkedin Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:82
+#: ../includes/visual-composer/elements/vc_elements.php:4520
+msgid "Flickr Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:89
+#: ../includes/visual-composer/elements/vc_elements.php:4544
+msgid "Instagram Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:96
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:69
+msgid "All Portfolio"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:70
+msgid "Portfolio Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:71
+msgid "Portfolio Image"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:114
+msgid "All Saffs"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:115
+#: ../includes/visual-composer/elements/vc_elements.php:908
+#: ../includes/visual-composer/elements/vc_elements.php:951
+msgid "Staff Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:116
+msgid "Staff Image"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:154
+msgid "All Testimonial"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:155
+msgid "Testimonial Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:156
+msgid "Client Image"
+msgstr ""
+
+#: ../includes/visual-composer/vc_init.php:66
+#: ../includes/visual-composer/elements/vc_elements.php:2052
+#: ../includes/visual-composer/elements/vc_elements.php:2471
+#: ../includes/visual-composer/elements/vc_elements.php:2856
+#: ../includes/visual-composer/elements/vc_elements.php:4600
+msgid "Insert Icon"
+msgstr ""
+
+#: ../includes/visual-composer/vc_init.php:67
+msgid "Remove Icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:20
+msgid "Anything Carousel"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:31
+msgid "Slides per view"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:34
+msgid "Enter number of slides to display at the same time."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:39
+#: ../includes/visual-composer/elements/vc_elements.php:1023
+#: ../includes/visual-composer/elements/vc_elements.php:1331
+#: ../includes/visual-composer/elements/vc_elements.php:1606
+#: ../includes/visual-composer/elements/vc_elements.php:2355
+#: ../includes/visual-composer/elements/vc_elements.php:3271
+#: ../includes/visual-composer/elements/vc_elements.php:3682
+msgid "Margin"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:42
+#: ../includes/visual-composer/elements/vc_elements.php:1026
+#: ../includes/visual-composer/elements/vc_elements.php:1334
+#: ../includes/visual-composer/elements/vc_elements.php:1609
+#: ../includes/visual-composer/elements/vc_elements.php:3274
+#: ../includes/visual-composer/elements/vc_elements.php:3685
+msgid "Enter margin-right(px) on item ( Example: 30 )."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:47
+#: ../includes/visual-composer/elements/vc_elements.php:250
+#: ../includes/visual-composer/elements/vc_elements.php:1033
+#: ../includes/visual-composer/elements/vc_elements.php:1341
+#: ../includes/visual-composer/elements/vc_elements.php:1616
+#: ../includes/visual-composer/elements/vc_elements.php:2277
+#: ../includes/visual-composer/elements/vc_elements.php:3281
+#: ../includes/visual-composer/elements/vc_elements.php:3692
+msgid "Loop"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:56
+#: ../includes/visual-composer/elements/vc_elements.php:451
+#: ../includes/visual-composer/elements/vc_elements.php:1044
+#: ../includes/visual-composer/elements/vc_elements.php:1352
+#: ../includes/visual-composer/elements/vc_elements.php:1627
+#: ../includes/visual-composer/elements/vc_elements.php:3292
+#: ../includes/visual-composer/elements/vc_elements.php:3703
+#: ../includes/visual-composer/elements/vc_elements.php:4366
+msgid "Center"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:65
+#: ../includes/visual-composer/elements/vc_elements.php:1055
+#: ../includes/visual-composer/elements/vc_elements.php:1363
+#: ../includes/visual-composer/elements/vc_elements.php:1638
+#: ../includes/visual-composer/elements/vc_elements.php:3303
+#: ../includes/visual-composer/elements/vc_elements.php:3714
+msgid "Padding Left and Right"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:68
+#: ../includes/visual-composer/elements/vc_elements.php:1058
+#: ../includes/visual-composer/elements/vc_elements.php:1366
+#: ../includes/visual-composer/elements/vc_elements.php:1641
+#: ../includes/visual-composer/elements/vc_elements.php:3306
+#: ../includes/visual-composer/elements/vc_elements.php:3717
+msgid "Padding left and right on stage (can see neighbours)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:73
+#: ../includes/visual-composer/elements/vc_elements.php:1065
+#: ../includes/visual-composer/elements/vc_elements.php:1373
+#: ../includes/visual-composer/elements/vc_elements.php:1648
+#: ../includes/visual-composer/elements/vc_elements.php:3313
+#: ../includes/visual-composer/elements/vc_elements.php:3724
+msgid "Start Position"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:76
+#: ../includes/visual-composer/elements/vc_elements.php:1068
+#: ../includes/visual-composer/elements/vc_elements.php:1376
+#: ../includes/visual-composer/elements/vc_elements.php:1651
+#: ../includes/visual-composer/elements/vc_elements.php:3316
+#: ../includes/visual-composer/elements/vc_elements.php:3727
+msgid "Start position."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:84
+#: ../includes/visual-composer/elements/vc_elements.php:227
+#: ../includes/visual-composer/elements/vc_elements.php:1078
+#: ../includes/visual-composer/elements/vc_elements.php:1386
+#: ../includes/visual-composer/elements/vc_elements.php:1661
+#: ../includes/visual-composer/elements/vc_elements.php:3326
+#: ../includes/visual-composer/elements/vc_elements.php:3737
+msgid "Enable autoplay?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:89
+#: ../includes/visual-composer/elements/vc_elements.php:232
+#: ../includes/visual-composer/elements/vc_elements.php:1085
+#: ../includes/visual-composer/elements/vc_elements.php:1393
+#: ../includes/visual-composer/elements/vc_elements.php:1668
+#: ../includes/visual-composer/elements/vc_elements.php:3333
+#: ../includes/visual-composer/elements/vc_elements.php:3744
+msgid "Autoplay Interval Timeout"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:92
+#: ../includes/visual-composer/elements/vc_elements.php:235
+#: ../includes/visual-composer/elements/vc_elements.php:1088
+#: ../includes/visual-composer/elements/vc_elements.php:1396
+#: ../includes/visual-composer/elements/vc_elements.php:1671
+#: ../includes/visual-composer/elements/vc_elements.php:3336
+#: ../includes/visual-composer/elements/vc_elements.php:3747
+msgid "Enter Autoplay interval timeout Value in milesecond (Ex: 5000)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:97
+#: ../includes/visual-composer/elements/vc_elements.php:1095
+#: ../includes/visual-composer/elements/vc_elements.php:1403
+#: ../includes/visual-composer/elements/vc_elements.php:1678
+#: ../includes/visual-composer/elements/vc_elements.php:3343
+#: ../includes/visual-composer/elements/vc_elements.php:3754
+msgid "Autoplay Hover Pause"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:106
+#: ../includes/visual-composer/elements/vc_elements.php:204
+#: ../includes/visual-composer/elements/vc_elements.php:1106
+#: ../includes/visual-composer/elements/vc_elements.php:1414
+#: ../includes/visual-composer/elements/vc_elements.php:1689
+#: ../includes/visual-composer/elements/vc_elements.php:3354
+#: ../includes/visual-composer/elements/vc_elements.php:3765
+msgid "Arrow"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:110
+#: ../includes/visual-composer/elements/vc_elements.php:208
+#: ../includes/visual-composer/elements/vc_elements.php:1110
+#: ../includes/visual-composer/elements/vc_elements.php:1418
+#: ../includes/visual-composer/elements/vc_elements.php:1693
+#: ../includes/visual-composer/elements/vc_elements.php:3358
+#: ../includes/visual-composer/elements/vc_elements.php:3769
+msgid "Do you like to show arrow navigation to move carousel."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:115
+#: ../includes/visual-composer/elements/vc_elements.php:213
+#: ../includes/visual-composer/elements/vc_elements.php:1117
+#: ../includes/visual-composer/elements/vc_elements.php:1425
+#: ../includes/visual-composer/elements/vc_elements.php:1700
+#: ../includes/visual-composer/elements/vc_elements.php:3365
+#: ../includes/visual-composer/elements/vc_elements.php:3776
+msgid "Arrow Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:118
+#: ../includes/visual-composer/elements/vc_elements.php:216
+#: ../includes/visual-composer/elements/vc_elements.php:1120
+#: ../includes/visual-composer/elements/vc_elements.php:1428
+#: ../includes/visual-composer/elements/vc_elements.php:1703
+#: ../includes/visual-composer/elements/vc_elements.php:3368
+#: ../includes/visual-composer/elements/vc_elements.php:3779
+msgid "Arrow Top Center"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:119
+#: ../includes/visual-composer/elements/vc_elements.php:217
+#: ../includes/visual-composer/elements/vc_elements.php:1121
+#: ../includes/visual-composer/elements/vc_elements.php:1429
+#: ../includes/visual-composer/elements/vc_elements.php:1704
+#: ../includes/visual-composer/elements/vc_elements.php:3369
+#: ../includes/visual-composer/elements/vc_elements.php:3780
+msgid "Choose arrow postion"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:125
+#: ../includes/visual-composer/elements/vc_elements.php:194
+#: ../includes/visual-composer/elements/vc_elements.php:1128
+#: ../includes/visual-composer/elements/vc_elements.php:1436
+#: ../includes/visual-composer/elements/vc_elements.php:1711
+#: ../includes/visual-composer/elements/vc_elements.php:3376
+#: ../includes/visual-composer/elements/vc_elements.php:3787
+msgid "Bullets"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:129
+#: ../includes/visual-composer/elements/vc_elements.php:199
+#: ../includes/visual-composer/elements/vc_elements.php:1132
+#: ../includes/visual-composer/elements/vc_elements.php:1440
+#: ../includes/visual-composer/elements/vc_elements.php:1715
+#: ../includes/visual-composer/elements/vc_elements.php:3380
+#: ../includes/visual-composer/elements/vc_elements.php:3791
+msgid "Do you like to show dot navigation to move carousel"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:134
+#: ../includes/visual-composer/elements/vc_elements.php:702
+#: ../includes/visual-composer/elements/vc_elements.php:826
+#: ../includes/visual-composer/elements/vc_elements.php:1139
+#: ../includes/visual-composer/elements/vc_elements.php:1447
+#: ../includes/visual-composer/elements/vc_elements.php:1722
+#: ../includes/visual-composer/elements/vc_elements.php:3387
+#: ../includes/visual-composer/elements/vc_elements.php:3798
+msgid "Animation In"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:137
+#: ../includes/visual-composer/elements/vc_elements.php:1142
+#: ../includes/visual-composer/elements/vc_elements.php:1450
+#: ../includes/visual-composer/elements/vc_elements.php:1725
+#: ../includes/visual-composer/elements/vc_elements.php:3390
+#: ../includes/visual-composer/elements/vc_elements.php:3801
+msgid ""
+"false = no animation. Animate functions work only with one item and only in "
+"browsers that support perspective property."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:142
+#: ../includes/visual-composer/elements/vc_elements.php:732
+#: ../includes/visual-composer/elements/vc_elements.php:853
+#: ../includes/visual-composer/elements/vc_elements.php:1149
+#: ../includes/visual-composer/elements/vc_elements.php:1457
+#: ../includes/visual-composer/elements/vc_elements.php:1732
+#: ../includes/visual-composer/elements/vc_elements.php:3397
+#: ../includes/visual-composer/elements/vc_elements.php:3808
+msgid "Animation Out"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:145
+#: ../includes/visual-composer/elements/vc_elements.php:1152
+#: ../includes/visual-composer/elements/vc_elements.php:1460
+#: ../includes/visual-composer/elements/vc_elements.php:1735
+#: ../includes/visual-composer/elements/vc_elements.php:3400
+#: ../includes/visual-composer/elements/vc_elements.php:3811
+msgid ""
+"Animate functions work only with one item and only in browsers that support "
+"perspective property."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:150
+#: ../includes/visual-composer/elements/vc_elements.php:1159
+#: ../includes/visual-composer/elements/vc_elements.php:1467
+#: ../includes/visual-composer/elements/vc_elements.php:1742
+#: ../includes/visual-composer/elements/vc_elements.php:3407
+#: ../includes/visual-composer/elements/vc_elements.php:3818
+msgid "Mouse Drag?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:154
+#: ../includes/visual-composer/elements/vc_elements.php:1163
+#: ../includes/visual-composer/elements/vc_elements.php:1471
+#: ../includes/visual-composer/elements/vc_elements.php:1746
+#: ../includes/visual-composer/elements/vc_elements.php:3411
+#: ../includes/visual-composer/elements/vc_elements.php:3822
+msgid "Do you like to move carousel by Mouse Drag?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:159
+#: ../includes/visual-composer/elements/vc_elements.php:1170
+#: ../includes/visual-composer/elements/vc_elements.php:1478
+#: ../includes/visual-composer/elements/vc_elements.php:1753
+#: ../includes/visual-composer/elements/vc_elements.php:3418
+#: ../includes/visual-composer/elements/vc_elements.php:3829
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:163
+#: ../includes/visual-composer/elements/vc_elements.php:1174
+#: ../includes/visual-composer/elements/vc_elements.php:1482
+#: ../includes/visual-composer/elements/vc_elements.php:1757
+#: ../includes/visual-composer/elements/vc_elements.php:3422
+#: ../includes/visual-composer/elements/vc_elements.php:3833
+msgid "Do you like to move carousel Touch Drag?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:168
+#: ../includes/visual-composer/elements/vc_elements.php:623
+#: ../includes/visual-composer/elements/vc_elements.php:762
+#: ../includes/visual-composer/elements/vc_elements.php:770
+#: ../includes/visual-composer/elements/vc_elements.php:880
+msgid "CSS box"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:170
+#: ../includes/visual-composer/elements/vc_elements.php:625
+#: ../includes/visual-composer/elements/vc_elements.php:772
+#: ../includes/visual-composer/elements/vc_elements.php:882
+msgid "Design Options"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:183
+#: ../includes/visual-composer/elements/vc_elements.php:1018
+#: ../includes/visual-composer/elements/vc_elements.php:1028
+#: ../includes/visual-composer/elements/vc_elements.php:1039
+#: ../includes/visual-composer/elements/vc_elements.php:1050
+#: ../includes/visual-composer/elements/vc_elements.php:1060
+#: ../includes/visual-composer/elements/vc_elements.php:1070
+#: ../includes/visual-composer/elements/vc_elements.php:1080
+#: ../includes/visual-composer/elements/vc_elements.php:1090
+#: ../includes/visual-composer/elements/vc_elements.php:1101
+#: ../includes/visual-composer/elements/vc_elements.php:1112
+#: ../includes/visual-composer/elements/vc_elements.php:1123
+#: ../includes/visual-composer/elements/vc_elements.php:1134
+#: ../includes/visual-composer/elements/vc_elements.php:1144
+#: ../includes/visual-composer/elements/vc_elements.php:1154
+#: ../includes/visual-composer/elements/vc_elements.php:1165
+#: ../includes/visual-composer/elements/vc_elements.php:1176
+#: ../includes/visual-composer/elements/vc_elements.php:1326
+#: ../includes/visual-composer/elements/vc_elements.php:1336
+#: ../includes/visual-composer/elements/vc_elements.php:1347
+#: ../includes/visual-composer/elements/vc_elements.php:1358
+#: ../includes/visual-composer/elements/vc_elements.php:1368
+#: ../includes/visual-composer/elements/vc_elements.php:1378
+#: ../includes/visual-composer/elements/vc_elements.php:1388
+#: ../includes/visual-composer/elements/vc_elements.php:1398
+#: ../includes/visual-composer/elements/vc_elements.php:1409
+#: ../includes/visual-composer/elements/vc_elements.php:1420
+#: ../includes/visual-composer/elements/vc_elements.php:1431
+#: ../includes/visual-composer/elements/vc_elements.php:1442
+#: ../includes/visual-composer/elements/vc_elements.php:1452
+#: ../includes/visual-composer/elements/vc_elements.php:1462
+#: ../includes/visual-composer/elements/vc_elements.php:1473
+#: ../includes/visual-composer/elements/vc_elements.php:1484
+#: ../includes/visual-composer/elements/vc_elements.php:1596
+#: ../includes/visual-composer/elements/vc_elements.php:1601
+#: ../includes/visual-composer/elements/vc_elements.php:1611
+#: ../includes/visual-composer/elements/vc_elements.php:1622
+#: ../includes/visual-composer/elements/vc_elements.php:1633
+#: ../includes/visual-composer/elements/vc_elements.php:1643
+#: ../includes/visual-composer/elements/vc_elements.php:1653
+#: ../includes/visual-composer/elements/vc_elements.php:1663
+#: ../includes/visual-composer/elements/vc_elements.php:1673
+#: ../includes/visual-composer/elements/vc_elements.php:1684
+#: ../includes/visual-composer/elements/vc_elements.php:1695
+#: ../includes/visual-composer/elements/vc_elements.php:1706
+#: ../includes/visual-composer/elements/vc_elements.php:1717
+#: ../includes/visual-composer/elements/vc_elements.php:1727
+#: ../includes/visual-composer/elements/vc_elements.php:1737
+#: ../includes/visual-composer/elements/vc_elements.php:1748
+#: ../includes/visual-composer/elements/vc_elements.php:1759
+#: ../includes/visual-composer/elements/vc_elements.php:3266
+#: ../includes/visual-composer/elements/vc_elements.php:3276
+#: ../includes/visual-composer/elements/vc_elements.php:3287
+#: ../includes/visual-composer/elements/vc_elements.php:3298
+#: ../includes/visual-composer/elements/vc_elements.php:3308
+#: ../includes/visual-composer/elements/vc_elements.php:3318
+#: ../includes/visual-composer/elements/vc_elements.php:3328
+#: ../includes/visual-composer/elements/vc_elements.php:3338
+#: ../includes/visual-composer/elements/vc_elements.php:3349
+#: ../includes/visual-composer/elements/vc_elements.php:3360
+#: ../includes/visual-composer/elements/vc_elements.php:3371
+#: ../includes/visual-composer/elements/vc_elements.php:3382
+#: ../includes/visual-composer/elements/vc_elements.php:3392
+#: ../includes/visual-composer/elements/vc_elements.php:3402
+#: ../includes/visual-composer/elements/vc_elements.php:3413
+#: ../includes/visual-composer/elements/vc_elements.php:3424
+#: ../includes/visual-composer/elements/vc_elements.php:3672
+#: ../includes/visual-composer/elements/vc_elements.php:3677
+#: ../includes/visual-composer/elements/vc_elements.php:3687
+#: ../includes/visual-composer/elements/vc_elements.php:3698
+#: ../includes/visual-composer/elements/vc_elements.php:3709
+#: ../includes/visual-composer/elements/vc_elements.php:3719
+#: ../includes/visual-composer/elements/vc_elements.php:3729
+#: ../includes/visual-composer/elements/vc_elements.php:3739
+#: ../includes/visual-composer/elements/vc_elements.php:3749
+#: ../includes/visual-composer/elements/vc_elements.php:3760
+#: ../includes/visual-composer/elements/vc_elements.php:3771
+#: ../includes/visual-composer/elements/vc_elements.php:3782
+#: ../includes/visual-composer/elements/vc_elements.php:3793
+#: ../includes/visual-composer/elements/vc_elements.php:3803
+#: ../includes/visual-composer/elements/vc_elements.php:3813
+#: ../includes/visual-composer/elements/vc_elements.php:3824
+#: ../includes/visual-composer/elements/vc_elements.php:3835
+msgid "Slider"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:241
+msgid "Autoplay Pause on Hover?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:245
+msgid "Enable autoplay pause on hover?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:254
+msgid "Enable loop?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:261
+msgid "Slide"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:276
+msgid "Enter your slide title text here."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:281
+msgid "Title Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:284
+msgid "Enter the title font size in px(Ex: 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:285
+#: ../includes/visual-composer/elements/vc_elements.php:294
+#: ../includes/visual-composer/elements/vc_elements.php:307
+#: ../includes/visual-composer/elements/vc_elements.php:316
+#: ../includes/visual-composer/elements/vc_elements.php:325
+#: ../includes/visual-composer/elements/vc_elements.php:334
+#: ../includes/visual-composer/elements/vc_elements.php:344
+#: ../includes/visual-composer/elements/vc_elements.php:354
+msgid "Title Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:290
+#: ../includes/visual-composer/elements/vc_elements.php:2644
+msgid "Title Letter Spacing in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:293
+msgid "Enter title letter spacing in pixels.( eg: 50px )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:299
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:302
+#: ../includes/visual-composer/elements/vc_elements.php:389
+msgid "Uppercase"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:304
+#: ../includes/visual-composer/elements/vc_elements.php:391
+msgid "lowercase"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:305
+#: ../includes/visual-composer/elements/vc_elements.php:392
+msgid "Capitalize"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:312
+#: ../includes/visual-composer/elements/vc_elements.php:2610
+#: ../includes/visual-composer/elements/vc_elements.php:2618
+msgid "Title Padding"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:315
+#: ../includes/visual-composer/elements/vc_elements.php:402
+#: ../includes/visual-composer/elements/vc_elements.php:616
+#: ../includes/visual-composer/elements/vc_elements.php:2613
+#: ../includes/visual-composer/elements/vc_elements.php:3923
+#: ../includes/visual-composer/elements/vc_elements.php:4357
+msgid ""
+"Enter the padding (in css format [top right bottom left]) in px(Ex: 50px "
+"50px 50px 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:321
+#: ../includes/visual-composer/elements/vc_elements.php:2602
+msgid "Title Margin"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:324
+#: ../includes/visual-composer/elements/vc_elements.php:411
+msgid ""
+"Enter the margin (in css format [top right bottom left]) in px(Ex: 50px 50px "
+"50px 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:330
+msgid "Title Line Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:333
+#: ../includes/visual-composer/elements/vc_elements.php:420
+#: ../includes/visual-composer/elements/vc_elements.php:4030
+msgid "Enter the line-height in (px)  Example: 70px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:340
+msgid "Title Custom Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:343
+msgid ""
+"Choose Title Background Color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:350
+msgid "Title Custom Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:353
+msgid "Choose Title Color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:360
+#: ../includes/visual-composer/elements/vc_elements.php:4611
+msgid "Content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:364
+msgid "Enter your slide content."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:369
+msgid "Content Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:372
+msgid "Enter the content font size in px(Ex: 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:373
+#: ../includes/visual-composer/elements/vc_elements.php:382
+#: ../includes/visual-composer/elements/vc_elements.php:394
+#: ../includes/visual-composer/elements/vc_elements.php:403
+#: ../includes/visual-composer/elements/vc_elements.php:412
+#: ../includes/visual-composer/elements/vc_elements.php:421
+#: ../includes/visual-composer/elements/vc_elements.php:431
+#: ../includes/visual-composer/elements/vc_elements.php:441
+msgid "Content Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:378
+msgid "Content Letter Spacing in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:381
+msgid "Enter content letter spacing in pixels.( eg: 50px )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:387
+msgid "Content Text Transform"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:399
+msgid "Content Padding"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:408
+#: ../includes/visual-composer/elements/vc_elements.php:2948
+msgid "Content Margin"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:417
+msgid "Content Line Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:427
+msgid "Content Custom Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:430
+msgid ""
+"Choose Content Background Color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:437
+msgid "Content Custom Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:440
+msgid "Choose Content Color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:446
+#: ../includes/visual-composer/elements/vc_elements.php:3474
+msgid "Align"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:449
+#: ../includes/visual-composer/elements/vc_elements.php:2192
+#: ../includes/visual-composer/elements/vc_elements.php:2767
+#: ../includes/visual-composer/elements/vc_elements.php:4365
+#: ../includes/visual-composer/elements/vc_elements.php:4384
+msgid "Left"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:450
+#: ../includes/visual-composer/elements/vc_elements.php:2193
+#: ../includes/visual-composer/elements/vc_elements.php:2768
+#: ../includes/visual-composer/elements/vc_elements.php:4367
+#: ../includes/visual-composer/elements/vc_elements.php:4385
+msgid "Right"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:458
+msgid "Change Header text color?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:462
+msgid ""
+"If you are using this slider below the header and if you enabled transparent "
+"Header, this option will help to adjust header text color, depends on your "
+"slider background"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:463
+#: ../includes/visual-composer/elements/vc_elements.php:475
+msgid "Header"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:480
+#: ../includes/visual-composer/elements/vc_elements.php:1881
+#: ../includes/visual-composer/elements/vc_elements.php:2114
+#: ../includes/visual-composer/elements/vc_elements.php:2689
+msgid "Display Button?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:484
+#: ../includes/visual-composer/elements/vc_elements.php:2693
+msgid "Do you want to display button in icon box?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:485
+#: ../includes/visual-composer/elements/vc_elements.php:495
+#: ../includes/visual-composer/elements/vc_elements.php:507
+#: ../includes/visual-composer/elements/vc_elements.php:518
+#: ../includes/visual-composer/elements/vc_elements.php:529
+#: ../includes/visual-composer/elements/vc_elements.php:542
+#: ../includes/visual-composer/elements/vc_elements.php:554
+#: ../includes/visual-composer/elements/vc_elements.php:565
+#: ../includes/visual-composer/elements/vc_elements.php:576
+#: ../includes/visual-composer/elements/vc_elements.php:587
+#: ../includes/visual-composer/elements/vc_elements.php:598
+#: ../includes/visual-composer/elements/vc_elements.php:608
+#: ../includes/visual-composer/elements/vc_elements.php:618
+#: ../includes/visual-composer/elements/vc_elements.php:1886
+#: ../includes/visual-composer/elements/vc_elements.php:1896
+#: ../includes/visual-composer/elements/vc_elements.php:1906
+#: ../includes/visual-composer/elements/vc_elements.php:1918
+#: ../includes/visual-composer/elements/vc_elements.php:1930
+#: ../includes/visual-composer/elements/vc_elements.php:1942
+#: ../includes/visual-composer/elements/vc_elements.php:2119
+#: ../includes/visual-composer/elements/vc_elements.php:2129
+#: ../includes/visual-composer/elements/vc_elements.php:2139
+#: ../includes/visual-composer/elements/vc_elements.php:2151
+#: ../includes/visual-composer/elements/vc_elements.php:2163
+#: ../includes/visual-composer/elements/vc_elements.php:2175
+#: ../includes/visual-composer/elements/vc_elements.php:2185
+#: ../includes/visual-composer/elements/vc_elements.php:2195
+#: ../includes/visual-composer/elements/vc_elements.php:2694
+#: ../includes/visual-composer/elements/vc_elements.php:2704
+#: ../includes/visual-composer/elements/vc_elements.php:2714
+#: ../includes/visual-composer/elements/vc_elements.php:2726
+#: ../includes/visual-composer/elements/vc_elements.php:2738
+#: ../includes/visual-composer/elements/vc_elements.php:2750
+#: ../includes/visual-composer/elements/vc_elements.php:2760
+#: ../includes/visual-composer/elements/vc_elements.php:2770
+#: ../includes/visual-composer/elements/vc_elements.php:4271
+msgid "Button"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:490
+#: ../includes/visual-composer/elements/vc_elements.php:1901
+#: ../includes/visual-composer/elements/vc_elements.php:2134
+#: ../includes/visual-composer/elements/vc_elements.php:2709
+#: ../includes/visual-composer/elements/vc_elements.php:4289
+msgid "Button URL"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:493
+#: ../includes/visual-composer/elements/vc_elements.php:1904
+#: ../includes/visual-composer/elements/vc_elements.php:2137
+#: ../includes/visual-composer/elements/vc_elements.php:2712
+#: ../includes/visual-composer/elements/vc_elements.php:4292
+msgid "Enter the button link"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:500
+#: ../includes/visual-composer/elements/vc_elements.php:1911
+#: ../includes/visual-composer/elements/vc_elements.php:2144
+#: ../includes/visual-composer/elements/vc_elements.php:2719
+#: ../includes/visual-composer/elements/vc_elements.php:4297
+msgid "Button Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:502
+#: ../includes/visual-composer/elements/vc_elements.php:514
+#: ../includes/visual-composer/elements/vc_elements.php:1913
+#: ../includes/visual-composer/elements/vc_elements.php:2146
+#: ../includes/visual-composer/elements/vc_elements.php:2721
+#: ../includes/visual-composer/elements/vc_elements.php:2869
+#: ../includes/visual-composer/elements/vc_elements.php:4299
+msgid "Outline"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:503
+#: ../includes/visual-composer/elements/vc_elements.php:515
+#: ../includes/visual-composer/elements/vc_elements.php:1914
+#: ../includes/visual-composer/elements/vc_elements.php:2147
+#: ../includes/visual-composer/elements/vc_elements.php:2722
+#: ../includes/visual-composer/elements/vc_elements.php:2868
+#: ../includes/visual-composer/elements/vc_elements.php:3971
+#: ../includes/visual-composer/elements/vc_elements.php:4300
+msgid "Solid"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:505
+#: ../includes/visual-composer/elements/vc_elements.php:2724
+msgid "Select button style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:512
+msgid "Button Hover Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:516
+msgid "Select button hover style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:523
+msgid "Button Type"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:525
+msgid "Oval"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:526
+msgid "Rectangle"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:534
+#: ../includes/visual-composer/elements/vc_elements.php:1923
+#: ../includes/visual-composer/elements/vc_elements.php:2156
+#: ../includes/visual-composer/elements/vc_elements.php:2731
+#: ../includes/visual-composer/elements/vc_elements.php:4307
+msgid "Button Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:536
+#: ../includes/visual-composer/elements/vc_elements.php:549
+msgid "Theme default color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:539
+#: ../includes/visual-composer/elements/vc_elements.php:571
+msgid "Custom Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:540
+#: ../includes/visual-composer/elements/vc_elements.php:1928
+#: ../includes/visual-composer/elements/vc_elements.php:2161
+#: ../includes/visual-composer/elements/vc_elements.php:2736
+#: ../includes/visual-composer/elements/vc_elements.php:4312
+msgid "Please choose button color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:547
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:552
+msgid "Please choose button hover color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:560
+msgid "Custom Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:563
+msgid "Choose Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:574
+msgid "Choose Text Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:582
+msgid "Custom Border Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:585
+msgid "Choose Border Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:592
+msgid "Custom Button Size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:596
+msgid "Do you want to custom button size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:603
+#: ../includes/visual-composer/elements/vc_elements.php:4123
+#: ../includes/visual-composer/elements/vc_elements.php:4345
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:606
+#: ../includes/visual-composer/elements/vc_elements.php:4348
+msgid "Enter the font size in px(Ex: 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:613
+#: ../includes/visual-composer/elements/vc_elements.php:4354
+msgid "Custom Padding"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:645
+msgid "Hover Box"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:656
+msgid "Front Image"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:663
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:666
+msgid "Enter the width as integer value  Ex: 200"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:671
+msgid "Image Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:674
+msgid "Enter the height as integer value  Ex: 200"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:679
+msgid "Display Overlay"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:686
+#: ../includes/visual-composer/elements/vc_elements.php:697
+#: ../includes/visual-composer/elements/vc_elements.php:707
+#: ../includes/visual-composer/elements/vc_elements.php:717
+#: ../includes/visual-composer/elements/vc_elements.php:727
+#: ../includes/visual-composer/elements/vc_elements.php:737
+#: ../includes/visual-composer/elements/vc_elements.php:747
+#: ../includes/visual-composer/elements/vc_elements.php:757
+msgid "Overlay"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:692
+msgid "Overlay Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:696
+msgid "Leave it empty to apply default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:705
+#: ../includes/visual-composer/elements/vc_elements.php:829
+msgid "Choose hove in animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:712
+msgid "Overlay Animation In Duration"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:715
+#: ../includes/visual-composer/elements/vc_elements.php:745
+#: ../includes/visual-composer/elements/vc_elements.php:838
+#: ../includes/visual-composer/elements/vc_elements.php:865
+msgid ""
+"Enter the Duration (Ex: 500ms or 1s). Leave it empty to apply default which "
+"is 0.3s"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:722
+#: ../includes/visual-composer/elements/vc_elements.php:844
+msgid "Animation In Delay"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:725
+#: ../includes/visual-composer/elements/vc_elements.php:755
+#: ../includes/visual-composer/elements/vc_elements.php:847
+#: ../includes/visual-composer/elements/vc_elements.php:874
+msgid ""
+"Enter the Delay (Ex: 100ms or 1s). Leave it empty to apply default which is "
+"0s"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:735
+#: ../includes/visual-composer/elements/vc_elements.php:856
+msgid "Choose hover out animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:742
+#: ../includes/visual-composer/elements/vc_elements.php:862
+msgid "Animation Out Duration"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:752
+#: ../includes/visual-composer/elements/vc_elements.php:871
+msgid "Animation Out Delay"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:765
+msgid "Overlay Design Options"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:779
+msgid "Hover Elements"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:791
+#: ../includes/visual-composer/elements/vc_elements.php:3930
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:798
+msgid "Choose default to apply shortcode default or theme default color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:803
+msgid "Display"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:806
+msgid "Display On Hover"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:807
+msgid "Always Display"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:814
+msgid "Vertical Align"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:817
+msgid "Top"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:818
+msgid "Middle"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:819
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:830
+#: ../includes/visual-composer/elements/vc_elements.php:839
+#: ../includes/visual-composer/elements/vc_elements.php:848
+#: ../includes/visual-composer/elements/vc_elements.php:857
+#: ../includes/visual-composer/elements/vc_elements.php:866
+#: ../includes/visual-composer/elements/vc_elements.php:875
+msgid "Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:835
+msgid "Animation In Duration"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:895
+msgid "Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:904
+msgid "Insert Staffs by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:907
+msgid "Staffs Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:914
+msgid "No. of Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:918
+msgid ""
+"Enter the number of staffs you want to display (only numbers), Enter -1 for "
+"all posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:944
+#: ../includes/visual-composer/elements/vc_elements.php:1250
+#: ../includes/visual-composer/elements/vc_elements.php:1540
+#: ../includes/visual-composer/elements/vc_elements.php:3610
+msgid "descending order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:946
+msgid "Choose staffs posts Order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:955
+msgid "Enter the staff ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:960
+msgid "Exclude Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:963
+msgid "Enter the staff id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:968
+#: ../includes/visual-composer/elements/vc_elements.php:1274
+#: ../includes/visual-composer/elements/vc_elements.php:3635
+msgid "Number of Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:970
+#: ../includes/visual-composer/elements/vc_elements.php:1276
+#: ../includes/visual-composer/elements/vc_elements.php:3638
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:971
+#: ../includes/visual-composer/elements/vc_elements.php:1277
+#: ../includes/visual-composer/elements/vc_elements.php:3639
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:972
+#: ../includes/visual-composer/elements/vc_elements.php:1278
+#: ../includes/visual-composer/elements/vc_elements.php:3637
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:978
+msgid "HTML Tag for Staff Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:981
+msgid "Choose which html tag you want use for staff name."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:986
+msgid "Link to single staff page?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:995
+#: ../includes/visual-composer/elements/vc_elements.php:1891
+#: ../includes/visual-composer/elements/vc_elements.php:2124
+#: ../includes/visual-composer/elements/vc_elements.php:2699
+#: ../includes/visual-composer/elements/vc_elements.php:4280
+#: ../includes/visual-composer/elements/vc_elements.php:4667
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:998
+#: ../includes/visual-composer/elements/vc_elements.php:1894
+#: ../includes/visual-composer/elements/vc_elements.php:2127
+#: ../includes/visual-composer/elements/vc_elements.php:2702
+#: ../includes/visual-composer/elements/vc_elements.php:4284
+msgid "Enter the Button Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1004
+#: ../includes/visual-composer/elements/vc_elements.php:1284
+msgid "Disable Space in columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1008
+#: ../includes/visual-composer/elements/vc_elements.php:1288
+msgid "Choose Yes to disable Space ( no margin inbetween columns )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1013
+#: ../includes/visual-composer/elements/vc_elements.php:1322
+msgid "Enable carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1017
+msgid "Do you like to display staffs in carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1184
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1193
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1196
+msgid "Grid"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1197
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1203
+msgid "Insert Portfolio by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1206
+msgid "Portfolio Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1207
+#: ../includes/visual-composer/elements/vc_elements.php:1257
+msgid "portfolio Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1213
+msgid "Filterable"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1217
+msgid "Filter only displays if you choose carousel \"No\""
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1222
+msgid "No. of Portfolio"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1225
+msgid ""
+"Enter the number of Portfolio you want to display (only numbers), Enter -1 "
+"for all portfolio items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1304
+#: ../includes/visual-composer/elements/vc_elements.php:1591
+msgid "Type the Load More text here"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1315
+#: ../includes/visual-composer/elements/vc_elements.php:1581
+msgid "number"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1316
+#: ../includes/visual-composer/elements/vc_elements.php:1582
+msgid "text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1325
+msgid "Do you like to display Portfolio in carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1492
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1501
+msgid "Insert testimonials by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1503
+msgid "testimonials Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1504
+#: ../includes/visual-composer/elements/vc_elements.php:1547
+msgid "testimonial Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1510
+msgid "No. of testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1514
+msgid ""
+"Enter the number of testimonials you want to display (only numbers), Enter "
+"-1 for all posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1551
+msgid "Enter the testimonial ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1556
+msgid "Exclude Testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1559
+msgid ""
+"Enter the testimonial id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1564
+msgid "Number of columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1566
+msgid "One Column"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1567
+msgid "Two Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1568
+msgid "Three Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1569
+msgid "Four Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1600
+msgid "Do you want slider?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1768
+#: ../includes/visual-composer/elements/vc_elements.php:1776
+msgid "Spacer"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1779
+msgid "Enter the Space in px (Ex: 30px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1787
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1796
+#: ../includes/visual-composer/elements/vc_elements.php:4459
+msgid "Choose a style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1798
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1799
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1800
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1801
+msgid "Style 4"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1802
+msgid "Style 5"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1803
+msgid "Style 6"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1804
+msgid "Style 7"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1805
+msgid "Style 8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1806
+msgid "Style 9"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1807
+msgid "Style 10"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1808
+msgid "This theme have 2 pricing tables styles, please choose one"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1813
+msgid "Plan Name Background Image"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1817
+msgid "Select a image if you want to display image behind plan name."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1822
+#: ../includes/visual-composer/elements/vc_elements.php:2088
+#: ../includes/visual-composer/elements/vc_elements.php:2585
+#: ../includes/visual-composer/elements/vc_elements.php:2920
+msgid "Title Tag"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1825
+#: ../includes/visual-composer/elements/vc_elements.php:2091
+#: ../includes/visual-composer/elements/vc_elements.php:2588
+#: ../includes/visual-composer/elements/vc_elements.php:2923
+msgid "Select title tag."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1834
+#: ../includes/visual-composer/elements/vc_elements.php:2100
+#: ../includes/visual-composer/elements/vc_elements.php:2580
+#: ../includes/visual-composer/elements/vc_elements.php:2914
+msgid "Enter the title."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1839
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1842
+msgid "Enter the symbol."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1847
+msgid "price"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1850
+msgid "Enter the price."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1855
+msgid "period"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1858
+msgid "Enter the period."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1864
+msgid "Pricing Content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1867
+#: ../includes/visual-composer/elements/vc_elements.php:2664
+msgid "Enter the Icon Box Content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1872
+msgid "Highlight"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1876
+msgid "Do you want to highlight the box?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1885
+#: ../includes/visual-composer/elements/vc_elements.php:2118
+msgid "Do you want to display button?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1916
+#: ../includes/visual-composer/elements/vc_elements.php:2149
+#: ../includes/visual-composer/elements/vc_elements.php:4302
+msgid "Select button style?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1927
+#: ../includes/visual-composer/elements/vc_elements.php:2160
+#: ../includes/visual-composer/elements/vc_elements.php:2735
+#: ../includes/visual-composer/elements/vc_elements.php:4311
+msgid "Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1935
+#: ../includes/visual-composer/elements/vc_elements.php:2168
+#: ../includes/visual-composer/elements/vc_elements.php:2743
+#: ../includes/visual-composer/elements/vc_elements.php:4317
+msgid "Button Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1940
+#: ../includes/visual-composer/elements/vc_elements.php:4322
+msgid "Select button size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1947
+msgid "Pricing Tables Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1951
+#: ../includes/visual-composer/elements/vc_elements.php:2204
+#: ../includes/visual-composer/elements/vc_elements.php:2414
+#: ../includes/visual-composer/elements/vc_elements.php:2789
+#: ../includes/visual-composer/elements/vc_elements.php:2960
+#: ../includes/visual-composer/elements/vc_elements.php:3448
+#: ../includes/visual-composer/elements/vc_elements.php:4180
+#: ../includes/visual-composer/elements/vc_elements.php:4404
+msgid "Do you like to animate this element"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1952
+#: ../includes/visual-composer/elements/vc_elements.php:1963
+#: ../includes/visual-composer/elements/vc_elements.php:1973
+#: ../includes/visual-composer/elements/vc_elements.php:1983
+#: ../includes/visual-composer/elements/vc_elements.php:2205
+#: ../includes/visual-composer/elements/vc_elements.php:2215
+#: ../includes/visual-composer/elements/vc_elements.php:2225
+#: ../includes/visual-composer/elements/vc_elements.php:2235
+#: ../includes/visual-composer/elements/vc_elements.php:2415
+#: ../includes/visual-composer/elements/vc_elements.php:2425
+#: ../includes/visual-composer/elements/vc_elements.php:2435
+#: ../includes/visual-composer/elements/vc_elements.php:2445
+#: ../includes/visual-composer/elements/vc_elements.php:2790
+#: ../includes/visual-composer/elements/vc_elements.php:2801
+#: ../includes/visual-composer/elements/vc_elements.php:2811
+#: ../includes/visual-composer/elements/vc_elements.php:2821
+#: ../includes/visual-composer/elements/vc_elements.php:2961
+#: ../includes/visual-composer/elements/vc_elements.php:2971
+#: ../includes/visual-composer/elements/vc_elements.php:2981
+#: ../includes/visual-composer/elements/vc_elements.php:2991
+#: ../includes/visual-composer/elements/vc_elements.php:4181
+#: ../includes/visual-composer/elements/vc_elements.php:4191
+#: ../includes/visual-composer/elements/vc_elements.php:4201
+#: ../includes/visual-composer/elements/vc_elements.php:4211
+#: ../includes/visual-composer/elements/vc_elements.php:4405
+#: ../includes/visual-composer/elements/vc_elements.php:4415
+#: ../includes/visual-composer/elements/vc_elements.php:4425
+#: ../includes/visual-composer/elements/vc_elements.php:4435
+msgid "Animate"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1957
+#: ../includes/visual-composer/elements/vc_elements.php:2210
+#: ../includes/visual-composer/elements/vc_elements.php:2420
+#: ../includes/visual-composer/elements/vc_elements.php:2795
+#: ../includes/visual-composer/elements/vc_elements.php:2966
+#: ../includes/visual-composer/elements/vc_elements.php:4186
+#: ../includes/visual-composer/elements/vc_elements.php:4238
+#: ../includes/visual-composer/elements/vc_elements.php:4410
+msgid "Animation Transition"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1961
+#: ../includes/visual-composer/elements/vc_elements.php:2213
+#: ../includes/visual-composer/elements/vc_elements.php:2423
+#: ../includes/visual-composer/elements/vc_elements.php:2799
+#: ../includes/visual-composer/elements/vc_elements.php:2969
+#: ../includes/visual-composer/elements/vc_elements.php:4189
+#: ../includes/visual-composer/elements/vc_elements.php:4241
+msgid "Choose Animation Transition."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1968
+#: ../includes/visual-composer/elements/vc_elements.php:2220
+#: ../includes/visual-composer/elements/vc_elements.php:2430
+#: ../includes/visual-composer/elements/vc_elements.php:2806
+#: ../includes/visual-composer/elements/vc_elements.php:2976
+#: ../includes/visual-composer/elements/vc_elements.php:4196
+#: ../includes/visual-composer/elements/vc_elements.php:4246
+#: ../includes/visual-composer/elements/vc_elements.php:4420
+msgid "Animation Duration"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1971
+#: ../includes/visual-composer/elements/vc_elements.php:2223
+#: ../includes/visual-composer/elements/vc_elements.php:2433
+#: ../includes/visual-composer/elements/vc_elements.php:2809
+#: ../includes/visual-composer/elements/vc_elements.php:2979
+#: ../includes/visual-composer/elements/vc_elements.php:4199
+#: ../includes/visual-composer/elements/vc_elements.php:4249
+msgid "Enter the Duration (Ex: 500ms or 1s)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1978
+#: ../includes/visual-composer/elements/vc_elements.php:2230
+#: ../includes/visual-composer/elements/vc_elements.php:2440
+#: ../includes/visual-composer/elements/vc_elements.php:2816
+#: ../includes/visual-composer/elements/vc_elements.php:2986
+#: ../includes/visual-composer/elements/vc_elements.php:4206
+#: ../includes/visual-composer/elements/vc_elements.php:4254
+#: ../includes/visual-composer/elements/vc_elements.php:4430
+msgid "Animation Delay"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1981
+#: ../includes/visual-composer/elements/vc_elements.php:2233
+#: ../includes/visual-composer/elements/vc_elements.php:2443
+#: ../includes/visual-composer/elements/vc_elements.php:2819
+#: ../includes/visual-composer/elements/vc_elements.php:2989
+#: ../includes/visual-composer/elements/vc_elements.php:4209
+#: ../includes/visual-composer/elements/vc_elements.php:4257
+msgid "Enter the Delay (Ex: 100ms or 1s)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1988
+#: ../includes/visual-composer/elements/vc_elements.php:2061
+#: ../includes/visual-composer/elements/vc_elements.php:2240
+#: ../includes/visual-composer/elements/vc_elements.php:2450
+#: ../includes/visual-composer/elements/vc_elements.php:2826
+#: ../includes/visual-composer/elements/vc_elements.php:2996
+#: ../includes/visual-composer/elements/vc_elements.php:4216
+#: ../includes/visual-composer/elements/vc_elements.php:4440
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:1991
+#: ../includes/visual-composer/elements/vc_elements.php:2064
+#: ../includes/visual-composer/elements/vc_elements.php:2243
+#: ../includes/visual-composer/elements/vc_elements.php:2453
+#: ../includes/visual-composer/elements/vc_elements.php:2829
+#: ../includes/visual-composer/elements/vc_elements.php:2999
+#: ../includes/visual-composer/elements/vc_elements.php:4219
+#: ../includes/visual-composer/elements/vc_elements.php:4443
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2000
+msgid "Counters"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2009
+msgid "Counter Number"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2013
+msgid "Enter the counter number."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2018
+msgid "Counter Number Font Size in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2021
+#: ../includes/visual-composer/elements/vc_elements.php:2038
+msgid "Enter Font Size in Pixels(eg: 16px), Leave empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2026
+msgid "Counter Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2030
+msgid "Enter the counter Text."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2035
+msgid "Counter Text Font Size in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2043
+#: ../includes/visual-composer/elements/vc_elements.php:2475
+#: ../includes/visual-composer/elements/vc_elements.php:2487
+#: ../includes/visual-composer/elements/vc_elements.php:2497
+#: ../includes/visual-composer/elements/vc_elements.php:2507
+#: ../includes/visual-composer/elements/vc_elements.php:2517
+#: ../includes/visual-composer/elements/vc_elements.php:2526
+#: ../includes/visual-composer/elements/vc_elements.php:2535
+#: ../includes/visual-composer/elements/vc_elements.php:2544
+#: ../includes/visual-composer/elements/vc_elements.php:2553
+#: ../includes/visual-composer/elements/vc_elements.php:2562
+#: ../includes/visual-composer/elements/vc_elements.php:2571
+#: ../includes/visual-composer/elements/vc_elements.php:2837
+msgid "Icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2047
+msgid "Do you like to add icon?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2056
+msgid "Choose an icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2071
+msgid "Callout Box"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2080
+msgid "Callout Box Icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2083
+msgid "Insert Callout icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2106
+msgid "Callout Box Content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2109
+msgid "Enter the callout box content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2173
+#: ../includes/visual-composer/elements/vc_elements.php:2748
+msgid "Select button size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2180
+#: ../includes/visual-composer/elements/vc_elements.php:2755
+#: ../includes/visual-composer/elements/vc_elements.php:4374
+msgid "Button Icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2183
+msgid "Insert button icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2190
+#: ../includes/visual-composer/elements/vc_elements.php:2765
+#: ../includes/visual-composer/elements/vc_elements.php:4382
+msgid "Button Icon Align"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2194
+#: ../includes/visual-composer/elements/vc_elements.php:2769
+#: ../includes/visual-composer/elements/vc_elements.php:4386
+#: ../includes/visual-composer/elements/vc_elements.php:4395
+msgid "Where you want to display Icon?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2200
+msgid "Callout Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2250
+msgid "Text Rotator"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2260
+msgid "Enter the Static Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2263
+msgid "Enter the Static text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2269
+msgid "Enter the Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2272
+msgid "Enter the Text ( seperate By Commas ( , ) )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2281
+#: ../includes/visual-composer/elements/vc_elements.php:2290
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2286
+msgid "Show Cursor?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2295
+msgid "Typing Speed"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2298
+msgid "Enter the typing speed."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2303
+msgid "Time before BackSpacing"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2306
+msgid "Enter the time before backspacing."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2311
+#: ../includes/visual-composer/elements/vc_elements.php:2775
+#: ../includes/visual-composer/elements/vc_elements.php:2846
+#: ../includes/visual-composer/elements/vc_elements.php:4046
+#: ../includes/visual-composer/elements/vc_elements.php:4470
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2313
+#: ../includes/visual-composer/elements/vc_elements.php:2778
+#: ../includes/visual-composer/elements/vc_elements.php:4049
+#: ../includes/visual-composer/elements/vc_elements.php:4086
+#: ../includes/visual-composer/elements/vc_elements.php:4472
+msgid "Align Left"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2314
+#: ../includes/visual-composer/elements/vc_elements.php:2777
+#: ../includes/visual-composer/elements/vc_elements.php:4048
+#: ../includes/visual-composer/elements/vc_elements.php:4087
+#: ../includes/visual-composer/elements/vc_elements.php:4473
+msgid "Align Center"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2315
+#: ../includes/visual-composer/elements/vc_elements.php:2779
+#: ../includes/visual-composer/elements/vc_elements.php:2850
+#: ../includes/visual-composer/elements/vc_elements.php:4050
+#: ../includes/visual-composer/elements/vc_elements.php:4088
+#: ../includes/visual-composer/elements/vc_elements.php:4474
+msgid "Align Right"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2316
+msgid "Choose alignment."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2321
+msgid "Font Weight "
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2324
+msgid "Choose which html tag you want use."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2329
+msgid "Display in UPPERCASE"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2333
+msgid "Do you want display in all caps?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2338
+#: ../includes/visual-composer/elements/vc_elements.php:3902
+msgid "Text Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2341
+#: ../includes/visual-composer/elements/vc_elements.php:4136
+msgid ""
+"Enter the Custom title Font Size in px (Ex : 30px). Leave it empty to apply "
+"theme default."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2347
+#: ../includes/visual-composer/elements/vc_elements.php:4630
+msgid "Text color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2350
+#: ../includes/visual-composer/elements/vc_elements.php:3933
+#: ../includes/visual-composer/elements/vc_elements.php:4633
+msgid "Choose text color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2358
+#: ../includes/visual-composer/elements/vc_elements.php:2552
+#: ../includes/visual-composer/elements/vc_elements.php:2605
+#: ../includes/visual-composer/elements/vc_elements.php:2621
+#: ../includes/visual-composer/elements/vc_elements.php:4144
+msgid ""
+"Value should be in css format top right bottom left in px (Ex: -10px 20px "
+"30px 40px), Leave it empty to apply theme default."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2365
+msgid "Process"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2374
+msgid "Process Number"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2377
+msgid "Enter Process Number."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2382
+msgid "Process Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2386
+msgid "Enter the Process title."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2391
+msgid "Display Process Description?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2395
+msgid "Do you want to display process description"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2401
+msgid "Process description"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2404
+msgid "Enter the process description"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2410
+msgid "Process Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2462
+msgid "Icon Box"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2480
+#: ../includes/visual-composer/elements/vc_elements.php:2865
+msgid "Icon Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2483
+msgid "Normal with Line"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2484
+#: ../includes/visual-composer/elements/vc_elements.php:2877
+msgid "Circle"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2485
+msgid "Outline Circle"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2486
+#: ../includes/visual-composer/elements/vc_elements.php:2870
+msgid "Select icon style."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2493
+#: ../includes/visual-composer/elements/vc_elements.php:3998
+#: ../includes/visual-composer/elements/vc_elements.php:4619
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2496
+msgid "Choose custom color on icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2503
+#: ../includes/visual-composer/elements/vc_elements.php:3949
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2506
+msgid "Choose custom background color on icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2513
+#: ../includes/visual-composer/elements/vc_elements.php:3987
+msgid "Icon Border Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2516
+msgid "Choose custom border color on icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2522
+#: ../includes/visual-composer/elements/vc_elements.php:3033
+msgid "Width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2525
+msgid "Enter the Width. Eg: 100px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2531
+#: ../includes/visual-composer/elements/vc_elements.php:3041
+msgid "Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2534
+#: ../includes/visual-composer/elements/vc_elements.php:2543
+msgid "Enter the Height. Eg: 100px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2540
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2549
+msgid "Icon Margin"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2558
+msgid "Icon Custom Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2561
+msgid ""
+"Enter the Custom Icon Font Size in px (Ex : 30px). Leave it empty to apply "
+"theme default."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2567
+#: ../includes/visual-composer/elements/vc_elements.php:4037
+msgid "Icon Border Radius"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2570
+msgid "Enter the icon border radius in (px)  Example: 70px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2593
+msgid "Display Title in UPPERCASE"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2597
+#: ../includes/visual-composer/elements/vc_elements.php:4118
+msgid "Do you want to Heading Text in all caps?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2626
+msgid "Title Border Radius"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2629
+msgid "Enter the title border radius in (px)  Example: 70px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2634
+msgid "Title Display"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2637
+msgid "Inline Block"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2638
+msgid "Inline"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2639
+msgid "Select Title Display."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2647
+#: ../includes/visual-composer/elements/vc_elements.php:3914
+msgid "Enter text letter spacing in pixels.( eg: 50px )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2652
+#: ../includes/visual-composer/elements/vc_elements.php:2929
+msgid "Custom Title Font Size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2655
+msgid ""
+"Enter the font size in px(Ex: 50px) or Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2661
+msgid "Icon Box Content"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2669
+#: ../includes/visual-composer/elements/vc_elements.php:4094
+msgid "Choose Title Font"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2673
+#: ../includes/visual-composer/elements/vc_elements.php:2683
+#: ../includes/visual-composer/elements/vc_elements.php:4098
+#: ../includes/visual-composer/elements/vc_elements.php:4108
+msgid ""
+"Choose font, font weight and Please enter font size with unit (px, em, rem, "
+"vh or vw or any css unit) or Leave it to empty to apply theme default. "
+"Example: '21px or 2em or 1.5vh'"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2674
+#: ../includes/visual-composer/elements/vc_elements.php:2684
+#: ../includes/visual-composer/elements/vc_elements.php:4099
+#: ../includes/visual-composer/elements/vc_elements.php:4109
+msgid "Typography"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2679
+msgid "Choose Content Font"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2758
+msgid "Select button icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2780
+msgid "Select icon box alignment."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2785
+#: ../includes/visual-composer/elements/vc_elements.php:2956
+msgid "Box Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2848
+#: ../includes/visual-composer/elements/vc_elements.php:3476
+msgid "Align center"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2849
+#: ../includes/visual-composer/elements/vc_elements.php:3476
+msgid "Align left"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2851
+#: ../includes/visual-composer/elements/vc_elements.php:4051
+msgid "Select alignment."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2875
+msgid "Icon Type"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2878
+msgid "Square"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2879
+msgid "Select icon apperance."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2884
+msgid "Custom Icon Size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2887
+msgid ""
+"Enter the font size in px(Ex: 50px) if you want use your own font size or "
+"Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2893
+msgid "Custom Icon Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2896
+msgid "Choose Icon color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2902
+msgid "Custom Icon Background Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2905
+msgid "Choose Icon Background Color (or) Leave it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2932
+msgid ""
+"Enter the font size in px (Ex: 50px) if you want custom font size or Leave "
+"it empty to apply theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2939
+msgid "Custom Text Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2942
+msgid ""
+"Choose text color if you want custom color (or) Leave it empty to apply "
+"theme default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:2951
+msgid ""
+"Value should be in css format [top right bottom left] in px (Ex: -10px 20px "
+"30px 40px)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3006
+msgid "Contact"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3014
+#: ../includes/visual-composer/elements/vc_elements.php:3137
+msgid "Email"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3017
+msgid "Enter the email where you want receive from contact form"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3024
+msgid "Google Map"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3036
+msgid "Enter the Width. Eg: 400 (or) 98%"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3044
+msgid "Enter the Height. Eg: 400"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3049
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3052
+msgid ""
+"Enter the latitude value (from http://universimmedia.pagesperso-orange.fr/"
+"geo/loc.htm)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3057
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3060
+msgid ""
+"Enter the longitude value (from http://universimmedia.pagesperso-orange.fr/"
+"geo/loc.htm)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3065
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3068
+msgid "Enter the zoom level of the map(Ex: 9))"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3073
+msgid "Zoom Control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3077
+msgid "Do you want to display Zoom Control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3082
+msgid "Pan Control"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3086
+msgid "Do you want to display Pancontrol?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3091
+msgid "MapType Control"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3095
+msgid "Do you want to display MapType Control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3100
+msgid "Scale Control"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3104
+msgid "Do you want to display Scale Control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3109
+msgid "Street View Control"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3113
+msgid "Do you want to display Street View Control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3118
+msgid "Overview Map control"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3122
+msgid "Do you want to display Overview Map control?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3127
+msgid "Do you want to show info on top of the map?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3132
+#: ../includes/visual-composer/elements/vc_elements.php:3142
+#: ../includes/visual-composer/elements/vc_elements.php:3152
+#: ../includes/visual-composer/elements/vc_elements.php:3163
+#: ../includes/visual-composer/elements/vc_elements.php:3173
+msgid "Contact Info"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3140
+msgid "Enter the email address."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3147
+msgid "Address Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3150
+msgid "Title which display above address. Leave it empty if you don't want."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3158
+msgid "Address"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3161
+msgid "Enter the address"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3168
+msgid "Contact Number"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3171
+msgid "Enter the contact number."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3181
+msgid "Clients"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3190
+msgid "Images"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3193
+msgid "Select images from media library."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3198
+msgid "Add Link client images?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3208
+msgid "Enter links for each client here"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3211
+msgid "Enter links for each client here. Divide links with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3217
+msgid "Client (company) Names on Hover"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3221
+msgid ""
+"Do you want to display client (company) names on Hover over client image?."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3227
+msgid "Enter Company name for each client here"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3230
+msgid "Enter Company name for each client here. Divide links with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3236
+msgid "Clients Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3239
+msgid "Style1"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3240
+msgid "Style2"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3241
+msgid "Style3"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3242
+msgid "Style4"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3243
+msgid "Style5"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3249
+msgid "No of Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3251
+msgid "4 Items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3252
+msgid "5 Items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3253
+msgid "6 Items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3254
+msgid "3 Items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3255
+msgid "2 Items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3256
+msgid ""
+"Choose Number of Columns. ( Column5 and Column6 will not work if slider "
+"disable )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3261
+msgid "Enable Carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3432
+msgid "seperator Line"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3440
+msgid "Line Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3443
+msgid "Line Style1"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3444
+msgid "Line Style2"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3445
+msgid "Line Style3"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3446
+msgid "Line Style4"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3447
+msgid "Line Style5"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3454
+msgid "Width in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3457
+msgid ""
+"Enter Width in Pixels or in percent (eg: 50px or 50%), Leave empty to apply "
+"default 75px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3465
+msgid "Line Thickness in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3468
+msgid "Enter thickness in Pixels (eg: 4px), Leave empty to apply default 1px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3476
+msgid "Align right"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3483
+msgid "Line color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3486
+msgid ""
+"Choose line color if you want custom color, leave empty to apply theme "
+"default"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3495
+msgid "Quote"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3505
+msgid "Author Comment"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3508
+msgid "Enter the Author Comment"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3513
+msgid "Author Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3516
+msgid "Enter the Comment Author Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3525
+msgid "Recent Blog"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3534
+msgid "Insert Blog Post By"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3537
+msgid "Blog Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3538
+msgid "Blog Post Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3538
+msgid "Blog Post Category"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3544
+msgid "No. of Recentblog"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3548
+msgid ""
+"Enter the number of Posts you want to display (only numbers), Enter -1 for "
+"all posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3553
+msgid "Post Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3557
+msgid "Enter the blog post ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3562
+msgid "Category Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3566
+msgid ""
+"Enter the blog post category slug seperated by commas (,). Example: design,"
+"illustration,print"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3571
+msgid "Exclude Post"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3575
+msgid ""
+"Enter the exclude blog post ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3580
+msgid "Exclude Category"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3584
+msgid ""
+"Enter the exclude blog post category slug seperated by commas (,). Example: "
+"2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3612
+msgid "In which Order, you want to display posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3617
+msgid "Title length"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3621
+#: ../includes/visual-composer/elements/vc_elements.php:3630
+msgid "Enter excerpt length. Example: 180 (Leave it empty to apply default)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3626
+msgid "Content length"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3645
+msgid "Display Date"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3649
+msgid "Do you like to display comments number in post"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3654
+msgid "Display Author name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3658
+#: ../includes/visual-composer/elements/vc_elements.php:3667
+msgid "Do you like to display catergory"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3663
+msgid "Display Catergory"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3676
+msgid "Do you like use this as carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3843
+msgid "Video Popup"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3852
+msgid "Enter the Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3855
+msgid "Please Enter the You-Tube or Vimeo Url."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3860
+msgid "Trigger Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3863
+msgid "Enter the trigger text."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3868
+msgid "Trigger Icon"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3871
+msgid "Select Trigger icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3876
+msgid "Video Popup Image"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3879
+msgid "Select a image if you want to display image on Video Background."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3884
+msgid "Video Popup Image Width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3887
+msgid "Enter the width ( Example: 300 )."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3893
+msgid "Video Popup Image Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3896
+msgid "Enter the height ( Example: 70px )."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3905
+#: ../includes/visual-composer/elements/vc_elements.php:3942
+msgid "Enter the text font size in px(Ex: 50px)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3906
+#: ../includes/visual-composer/elements/vc_elements.php:3915
+#: ../includes/visual-composer/elements/vc_elements.php:3924
+#: ../includes/visual-composer/elements/vc_elements.php:3934
+#: ../includes/visual-composer/elements/vc_elements.php:3943
+#: ../includes/visual-composer/elements/vc_elements.php:3953
+#: ../includes/visual-composer/elements/vc_elements.php:3962
+#: ../includes/visual-composer/elements/vc_elements.php:3980
+#: ../includes/visual-composer/elements/vc_elements.php:3991
+#: ../includes/visual-composer/elements/vc_elements.php:4002
+#: ../includes/visual-composer/elements/vc_elements.php:4011
+#: ../includes/visual-composer/elements/vc_elements.php:4021
+#: ../includes/visual-composer/elements/vc_elements.php:4031
+#: ../includes/visual-composer/elements/vc_elements.php:4041
+msgid "Custom Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3911
+msgid "Text Letter Spacing in px"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3920
+msgid "Text Padding"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3939
+msgid "Icon Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3952
+msgid "Choose custom background color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3958
+msgid "Icon Border width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3961
+msgid "Enter the border width in (px)  Example: 1px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3968
+msgid "Icon Border Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3972
+msgid "Dotted"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3973
+msgid "Dashed"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3974
+msgid "Double"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3975
+msgid "Groove"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3976
+msgid "Ridge"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3977
+msgid "Inset"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3978
+msgid "Outset"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3979
+msgid "Select icon border style?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:3990
+msgid "Choose icon border color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4001
+msgid "Choose icon color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4007
+msgid "Icon Width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4010
+msgid "Enter the width in (px)  Example: 70px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4017
+msgid "Icon Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4020
+msgid "Enter the height in (px)  Example: 70px."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4027
+msgid "Icon Line Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4040
+msgid "Enter the border radius in (px)  Example: 70px or 50%."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4058
+msgid "Special Heading"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4067
+msgid "Heading Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4071
+msgid "Enter the Heading Text."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4076
+msgid "Heading Type"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4079
+msgid "Select which kind of heading you want to display."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4084
+msgid "Heading Alignment"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4089
+#: ../includes/visual-composer/elements/vc_elements.php:4475
+msgid "How you want to align this Heading"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4104
+msgid "Choose Sub Title Font"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4114
+msgid "Display Heading in UPPERCASE"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4125
+msgid "small"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4129
+msgid "Select Font Size."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4133
+msgid "Custom Font Size"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4141
+msgid "Heading Margin"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4149
+msgid "Sub Heading text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4152
+msgid ""
+"Enter the Sub-Heading text which will display below the title ( Leave it "
+"empty to hide )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4157
+msgid "Line"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4161
+#: ../includes/visual-composer/elements/vc_elements.php:4170
+msgid "Display line below title?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4166
+msgid "Line Positions"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4168
+msgid "Below Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4169
+msgid "Below Sub Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4176
+msgid "Title Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4226
+msgid "Animation Block"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4301
+msgid "Simple (No Bg and No Border)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4327
+msgid "Animated Button?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4331
+msgid "Do you want to animated button?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4336
+msgid "Custom Font Size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4340
+msgid "Do you want to custom font size?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4363
+msgid "Button Align"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4368
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4369
+msgid "Select button Align?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4377
+msgid "choose button icon."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4391
+msgid "Button Icon on Hover "
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4400
+msgid "Button Animation"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4413
+msgid "Choose animation transition."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4423
+msgid "Enter the duration (Ex: 500ms or 1s)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4433
+msgid "Enter the delay (Ex: 100ms or 1s)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4450
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4462
+msgid "style 1"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4463
+msgid "style 2"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4464
+msgid "style 3"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4465
+msgid ""
+"This theme have 3 Social Icon styles, please choose one. Leave below fields "
+"empty to hide icons "
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4480
+msgid "Facebook Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4483
+msgid "Enter the facebook Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4491
+msgid "Enter the twitter Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4496
+msgid "GooglePlus Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4499
+msgid "Enter the gplus Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4504
+msgid "LinkedIn Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4507
+msgid "Enter the linkedin Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4515
+msgid "Enter the dribbble Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4523
+msgid "Enter the flickr Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4528
+msgid "Pinterest Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4531
+msgid "Enter the pinterest Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4536
+msgid "Tumblr Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4539
+msgid "Enter the tumblr Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4547
+msgid "Enter the instagram Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4552
+msgid "RSS Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4555
+msgid "Enter the rss Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4560
+msgid "Github Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4563
+msgid "Enter the github Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4568
+msgid "Youtube Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4571
+msgid "Enter the youtube Url"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4579
+msgid "Lists"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4590
+msgid "List Item"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4603
+msgid "Choose icon if you to display icons before list"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4614
+msgid "Enter your list item content."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4621
+msgid "black"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4622
+msgid "Theme Primary Color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4623
+msgid "custom color"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4650
+msgid "Register Form"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4659
+msgid "Form Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4661
+msgid "Register"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4662
+msgid "Type the form title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4669
+msgid "Submit"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:4670
+msgid "Type the form button text"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:181
+msgid "Read More"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:515
+msgid "No Staff Posts Found."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:862
+msgid "All Items Loaded"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:981
+msgid "Testimonial posts not Found. Please add atleast one."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1017
+msgid "Send Mail"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1066
+msgid "Name:"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1071
+msgid "Email:"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1076
+msgid "Subject:"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1081
+msgid "Message:"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1641
+msgid "Section Title"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1644
+msgid "Read more"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:1977
+msgid ""
+"These are the default values..., You know what you should do?, Use your "
+"own!, Have a great day!"
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:2360
+msgid "Post Not Found."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:2504
+msgid "BEST VALUE"
+msgstr ""

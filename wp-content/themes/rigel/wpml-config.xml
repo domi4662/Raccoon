@@ -1,0 +1,33 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">pix_portfolio</custom-type>
+        <custom-type translate="1">pix_staffs</custom-type>
+        <custom-type translate="1">pix_testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">pix_jobs</taxonomy>
+        <taxonomy translate="1">pix_categories</taxonomy>
+        <taxonomy translate="1">pix_client_jobs</taxonomy>
+    </taxonomies>
+    <admin-texts>
+	<key name="theme_mods_rigel">
+		<key name="top_text" />
+		<key name="search_text" />
+		<key name="blog_page_title" />
+		<key name="single_author_box_title" />
+		<key name="single_related_title" />
+		<key name="single_comment_title" />
+		<key name="single_comment_form_title" />
+		<key name="single_comment_form_btn_text" />
+		<key name="single_portfolio_client_title" />
+		<key name="single_portfolio_task_title" />
+		<key name="single_portfolio_date_title" />
+		<key name="single_portfolio_btn_text" />
+		<key name="single_portfolio_related_main_title" />
+		<key name="single_portfolio_related_sub_title" />
+		<key name="shop_title" />
+	</key>
+    </admin-texts>
+</wpml-config>
+
+
